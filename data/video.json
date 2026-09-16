@@ -63,7 +63,7 @@
     },
     {
       "judul": "Spirit Realm Walker",
-      "updatedAt": "2026-09-10T12:15",
+      "updatedAt": "2026-09-16T19:15",
       "rating": "9.5",
       "kategori": "donghua populer",
       "genre": [
@@ -82,7 +82,8 @@
       "video": [
         "DT_Yaf3dptrxsduiPAukahozb",
         "DT_AJQdpjZW6xLsbpxVpFZ8ro",
-        "GD_1JGIi4S-RWJ-Jq6pP7gAdzyy2IWHJRj7w"
+        "GD_1JGIi4S-RWJ-Jq6pP7gAdzyy2IWHJRj7w",
+        "DT_5Lh85sEMVPW25dGvQbt4D4"
       ],
       "download": {
         "sl": [
@@ -825,7 +826,7 @@
     },
     {
       "judul": "The Heavenly Fate Villain ",
-      "updatedAt": "2026-09-16T18:45",
+      "updatedAt": "2026-09-16T19:16",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -1699,7 +1700,7 @@
     },
     {
       "judul": "Stay Low Profile Sect Chief",
-      "updatedAt": "2026-09-12T10:10",
+      "updatedAt": "2026-09-16T19:10",
       "rating": "9.5",
       "kategori": "donghua populer",
       "genre": [
@@ -1743,7 +1744,8 @@
         "RM_v7cr89u",
         "DT_EkcUQMfkjtBe1wCJP6n1jL",
         "RM_v7d1vre",
-        "RM_v7d846g"
+        "RM_v7d846g",
+        "RM_v7de9k0"
       ],
       "download": {
         "sl": [
@@ -1833,7 +1835,7 @@
     },
     {
       "judul": "The Supreme Dantian",
-      "updatedAt": "2026-09-14T09:47",
+      "updatedAt": "2026-09-16T18:47",
       "kategori": "donghua populer",
       "genre": [
         "Action",
@@ -1878,7 +1880,9 @@
         "GD_1atjjtJ5__s7vzzmF_ySLUeYPv-iRW8Pd",
         "GD_1MfGBSsk1j7zEEdtndAPlQkFyCUw6DZtk",
         "GD_1QWtKxvV_Omgu3yJbHLu2ZF4sJYX4AkjT",
-        "GD_1GZFq4Zn6iBZox6X-SCT3IPru-SHkwex9"
+        "GD_1GZFq4Zn6iBZox6X-SCT3IPru-SHkwex9",
+        "GD_19m_dviKmANssU7ImUaYai2JfK0iMCPnP",
+        "GD_1MfQbMas1bqrGrbNwo-4K2pepFc4glaL5"
       ],
       "download": {
         "sl": [
@@ -3546,7 +3550,7 @@
     },
     {
       "judul": "Ascendants of the Nine Suns",
-      "updatedAt": "2026-09-08T18:12",
+      "updatedAt": "2026-09-16T19:12",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3579,7 +3583,8 @@
         "DM_k6q25fxFY7Nh9OIRT0u",
         "RM_v7cfyuq",
         "RM_v7cr8ao",
-        "RM_v7d1vlg"
+        "RM_v7d1vlg",
+        "RM_v7de9v4"
       ],
       "download": {
         "sl": [
@@ -3631,7 +3636,7 @@
     },
     {
       "judul": "perlees battle sprit",
-      "updatedAt": "2026-09-10T11:57",
+      "updatedAt": "2026-09-16T18:57",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3674,7 +3679,9 @@
         "DT_MBCCZnKmm8fHZ2LPYudYJM",
         "DT_8e8U4rKxXqQpzGJRR2NvEx",
         "DT_Ut5z4Vq4JEpHW3wHzKKnVH",
-        "DT_QJ4Pw51NJZsQ7tkf5SQ9tF"
+        "DT_QJ4Pw51NJZsQ7tkf5SQ9tF",
+        "RM_v7de91w",
+        "RM_v7de9ay"
       ],
       "download": {
         "sl": [
@@ -8254,7 +8261,6 @@
     {
       "judul": "Orang Pakai Insting, Aku pakai Pemindai HP",
      "poster": "https://i.ibb.co.com/s9PxzYzw/1788834924505-7075532432189746-3-4jpg-tplv-vod-rs-651-868.webp",
-      "vertical":true,
       "coinPrice": 50,
       "kategori": "Drama",
       "genre": [
