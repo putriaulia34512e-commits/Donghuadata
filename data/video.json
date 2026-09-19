@@ -276,7 +276,7 @@
     },
     {
       "judul": "The Eternal Supreme Li Yunxiaoa!",
-      "updatedAt": "2026-09-14T19:02",
+      "updatedAt": "2026-09-18T12:02",
       "rating": "5.6",
       "kategori": "donghua populer",
       "genre": [
@@ -312,7 +312,8 @@
         "GD_1C-F4BtrnUxHRMR_asnR8BwOmhH4OFETV",
         "DT_4Vaxxy6ek21SNb4UL1w4cQ",
         "GD_1ujIYSp_c_U3h1ofkSc6cis_dZaPFTmVb",
-        "GD_1k3NpYclfSPwSwkyCR3-Sn4ehaK52qRv8"
+        "GD_1k3NpYclfSPwSwkyCR3-Sn4ehaK52qRv8",
+        "DS_u7ev21stuly6"
       ],
       "download": {
         "sl": [
@@ -632,7 +633,7 @@
     },
     {
       "judul": "A Good Day to Ascend",
-      "updatedAt": "2026-09-12T09:16",
+      "updatedAt": "2026-09-18T12:16",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -658,7 +659,8 @@
         "DT_YJvuZQ3Fc7zZCauWLnShqv",
         "DT_TpibrYBdTZT4rA6EHEBa9V",
         "DT_SKDGYTmuPHHrhofXgyGbEE",
-        "DT_AVM1qTUh9YB7j7qTvAzF8Q"
+        "DT_AVM1qTUh9YB7j7qTvAzF8Q",
+        "RM_v7difw2"
       ],
       "download": {
         "sl": [
@@ -2625,7 +2627,7 @@
     },
     {
       "judul": "Beyond Time's gaze",
-      "updatedAt": "2026-09-12T10:22",
+      "updatedAt": "2026-09-18T12:22",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2662,7 +2664,8 @@
         "DT_AAi19bxdMF7PK3ue5mRbEe",
         "DT_9ES4omUwi3p6FderJ7wAFw",
         "DM_xb4312m",
-        "DT_Matau68u4pgJxzoxz3TkYy"
+        "DT_Matau68u4pgJxzoxz3TkYy",
+        "RM_v7dikik"
       ],
       "download": {
         "sl": [
@@ -5722,6 +5725,110 @@
       }
     },
     {
+      "judul": "Tomodachi no Imouto ga Ore ni dake Uzai",
+      "updatedAt": "2026-09-18T12:45",
+      "kategori": "anime",
+      "genre": [
+        "comedy",
+        "Romance"
+      ],
+      "rating": "6.50",
+      "status": "end",
+      "jadwal": "minggu",
+      "poster": "https://i.ibb.co.com/pvj5xgDs/images-20.jpg",
+      "studio": "blade",
+      "season": "2025",
+      "durasi": "23 Min/Eps",
+      "totalEp": "12",
+      "mulaiDari": 1,
+      "video": [
+        "DS_xjn86da409tu",
+"DS_lz6cogpwp7kz",
+"DS_21f3tmvtrs2f",
+"DS_hqkiwdxyhxyw",
+"DS_f7sv88rd6k0y",
+"DS_1jlxseqyif9z",
+"DS_clwywu9g1piy",
+"DS_2kkpepbst7wj",
+"DS_lbsz9ic8mfk2",
+"DS_v0p0xq8jtgcu",
+"DS_7fcnwifqb3ij",
+"DS_hoo1jz887mzs"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+      "updatedAt": "2026-09-18T12:45",
+      "kategori": "anime",
+      "genre": [
+        "comedy",
+        "Romance"
+      ],
+      "rating": "6.50",
+      "status": "end",
+      "jadwal": "minggu",
+      "poster": "https://i.ibb.co.com/G4ZDNmhR/images-19.jpg",
+      "studio": "blade",
+      "season": "2025",
+      "durasi": "23 Min/Eps",
+      "totalEp": "12",
+      "mulaiDari": 1,
+      "video": [
+        "DS_6xd3g19ov74d",
+        "DS_1jwcfwv69usf",
+        "DS_xz2knsgcl6o9",
+        "DS_6qf04jadpmpp",
+        "DS_v75j6ht1eido",
+        "DS_t8cotcynmj35",
+        "DS_7wtgkjo5hne7",
+        "DS_akzxoxkxp2rb",
+        "DS_4qlrs2z1dg59",
+        "DS_xlurj9hbfxxo",
+        "DS_4om626dnqi93",
+        "DS_409of5axqg53"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+    {
       "judul": "Perfect World The Movie: Ashes of Fire",
       "updatedAt": "2026-07-12T08:30",
       "kategori": "donghua tamat",
@@ -8189,7 +8296,7 @@
     },
     {
       "judul": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita",
-      "updatedAt": "2026-09-12T10:25",
+      "updatedAt": "2026-09-18T12:25",
       "kategori": "anime",
       "genre": [
         "Action",
@@ -8197,7 +8304,7 @@
         "Fantasy"
       ],
       "rating": "6.72",
-      "status": "Ongoing",
+      "status": "end",
       "jadwal": "Jumat",
       "poster": "https://i.ibb.co.com/3mh3XTwK/images-13.jpg",
       "studio": "Gekkou",
@@ -8216,7 +8323,8 @@
         "DT_CcVerAmwtMX46qjktwRQmW",
         "DT_7QYf9WTU7gXyCSKAeCFf42",
         "DT_6HL5S55ALxb58YGvXYjvrP",
-        "RM_v7d84b8"
+        "RM_v7d84b8",
+        "RM_v7dig0w"
       ],
       "download": {
         "sl": [
