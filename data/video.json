@@ -6827,7 +6827,6 @@
     {
       "judul": " (Sulih suara) Dunia Game Ini, Aku yang Berkuasa S1 S2 S3",
       "unlockEpisode": 1,
-      "vertical": true,
       "coinPrice": 50,
       "updatedAt": "2026-09-27T14:45",
       "kategori": "Ai",
@@ -9491,8 +9490,9 @@
     {
       "judul": "Orang Pakai Insting, Aku pakai Pemindai HP",
       "poster": "https://i.ibb.co.com/s9PxzYzw/1788834924505-7075532432189746-3-4jpg-tplv-vod-rs-651-868.webp",
+      "unlockEpisode": 1,
       "coinPrice": 50,
-      "kategori": "Drama",
+      "kategori": "Ai",
       "genre": [
         "ai",
         "Di upload oleh: MyTuber IDN"
@@ -9501,7 +9501,7 @@
       "status": "",
       "mulaiDari": 1,
       "totalEp": 15,
-      "updatedAt": "2026-09-14T18:18",
+      "updatedAt": "2026-09-27T14:18",
       "video": [
         "DM_k6XqhTGBmKIl3pJEP5Q",
         "DM_k5GawI4nbRHx3MJEP5M",
