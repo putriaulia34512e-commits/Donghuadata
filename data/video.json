@@ -1326,7 +1326,7 @@
     },
     {
       "judul": "Renegade imortall",
-      "updatedAt": "2026-09-21T10:23",
+      "updatedAt": "2026-09-27T19:23",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -1367,7 +1367,8 @@
         "DT_WvDUBJvrWy6vZSYS3JEfX9",
         "DT_AmLsUkfpaztDMosYermcn7",
         "DT_3mYHauY8cKesnsVRK8uEjY",
-        "RM_v7dk8zq"
+        "RM_v7dk8zq",
+        "RM_v7dvn18"
       ],
       "download": {
         "sl": [
@@ -6837,7 +6838,7 @@
         "source:netshorts"
       ],
       "rating": "7.2",
-      "status": "ongoiny",
+      "status": "ongoing",
       "jadwal": "minggu",
       "poster": "https://i.ibb.co.com/n4KXxsC/1287128397-20260303-183812-jpg-tplv-vod-noop-image.jpg",
       "studio": "unknown",
@@ -8719,6 +8720,60 @@
       ],
       "download": {
         "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+   {
+      "judul": " Senior sekte terjebak di Game",
+      "unlockEpisode": 1,
+      "coinPrice": 50,
+      "updatedAt": "2026-09-27T19:45",
+      "kategori": "Ai",
+      "genre": [
+        "fantasy"
+        "iblis"
+        "Uploader: VanReals3dofficial"
+        "source:netshorts"
+      ],
+      "rating": "7.2",
+      "status": "ongoing",
+      "jadwal": "minggu",
+      "poster": "https://i.ibb.co.com/hR6Q2XNV/Senior sekte terjebak di VanReals3dofficial.jpg",
+      "studio": "unknown",
+      "season": "2026",
+      "durasi": "13 Min/Eps",
+      "totalEp": "10",
+      "mulaiDari": 1,
+      "video": [
+        "DT_NLPsHB8xzckfKVFWaspuns",
+"DT_VjybLPSD4a6tyKfxr8TCej",
+"DT_EEmn4uCkVgiAvHxFHUe6e7",
+"DT_ATwfhKyWCrUDn8LYVRjcwn",
+"DT_7tise4gkLy42U6RjAiTpxN",
+"DT_JPFvA2muf1UUSWm1BaAoK9",
+"DT_4LNcu7PqWqWfijpJ5AL3CZ",
+"DT_5CmMT3HQ6DctPsRRxTPcqq",
+"DT_DbR9KTLZnxQUJyWG6swmge",
+"DT_6cRYKVZeufeiPXZoUtiSkc"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
           "#",
           "#",
           "#",
