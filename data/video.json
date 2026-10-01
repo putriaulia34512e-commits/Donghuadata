@@ -652,6 +652,53 @@
       }
     },
     {
+      "judul": " The Guardian of Daxia",
+      "unlockEpisode": 1,
+      "coinPrice": 120,
+      "updatedAt": "2026-10-01T17:45",
+      "kategori": "donghua populer",
+      "genre": [
+        "action",
+        "fantasy"
+      ],
+      "rating": "6.9",
+      "status": "ongoing",
+      "jadwal": "Rabu",
+      "poster": "https://i.ibb.co.com/GvQqq9Sy/The-Guardian-of-Daxia.webp",
+      "studio": "Suoyi Technology Enabled Vision",
+      "season": "2026",
+      "durasi": "14 Min/Eps",
+      "totalEp": "59",
+      "mulaiDari": 1,
+      "sinopsis":"Sepuluh tahun yang lalu, setelah bulan darah berlangsung selama tiga hari, monster, dewa, mata mistis, dan kisah hantu bermunculan silih berganti. Saat hal-hal misterius dan menakutkan melanda dunia manusia, kengerian dan keputusasaan merajalela di seluruh negeri. Sebagai manusia, apakah kita harus berlutut dalam kepasrahan, meratap dalam air mata, atau menghunus pedang kita? Ini adalah zaman baru, dan zaman ini milik yang transenden! Dengan membuka gerbang menuju yang transenden, Su Bai menyaksikan dunia baru...",
+      "video": [
+        "DT_Lw37HT4VRTKofaSiaUviYK",
+"DT_CzqmKnWiDY86b7WjyQs5uf",
+"DT_TJFRAQ4AF2HFs75YginZgk",
+"RM_v7e1pkm"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+    {
       "judul": "Daqian Town ",
       "updatedAt": "2026-09-25T11:16",
       "rating": "6.3",
