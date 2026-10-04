@@ -7411,7 +7411,7 @@
     {
       "judul": "Pengorbanan Maut Sang Musuh",
       "unlockEpisode": 1,
-      "updatedAt": "2026-10-03T08:30",
+      "updatedAt": "2026-10-04T12:23",
       "kategori": "Ai",
       "genre": [
         "Fantasy",
@@ -7419,7 +7419,7 @@
         "Adventure"
       ],
       "rating": "7.8",
-      "status": "ongoing",
+      "status": "end",
       "jadwal": "Kamis & minggu",
       "poster": "https://i.ibb.co.com/G4VHsFcV/img.jpg",
       "studio": "outher",
@@ -7432,7 +7432,16 @@
 "RM_v7e4o26",
 "RM_v7e4oe4",
 "RM_v7e4png",
-"RM_v7e4qvi"
+"RM_v7e4qvi",
+        "DM_knRUlSQiXKbKNAKX6aK",
+"DM_k2hS6grPYpd3PMKWPBY",
+"DM_k19pYL8BgNirEjKWPC2",
+"DM_k3EX7SphzOYLDgKWPC6",
+"DM_k4J0Cga6uwULX6KWPCe",
+"DM_k71EsCwhI7lsbLKWPCa",
+"RM_v7e5go0",
+"DM_k1FXhKWEKyvK2iKXWoq",
+"DM_k1tGe7yLmvWAaXKXWoi"
       ],
       "download": {
         "sl": [
@@ -7442,6 +7451,7 @@
     },
     {
       "judul": "Putri iblis bayangan bangkit",
+      "unlockEpisode": 1,
       "updatedAt": "2026-10-04T12:15",
       "kategori": "Ai",
       "genre": [
@@ -7450,7 +7460,7 @@
         "Adventure"
       ],
       "rating": "7.8",
-      "status": "segera",
+      "status": "ongoing",
       "jadwal": "Kamis & minggu",
       "poster": "https://i.ibb.co.com/zLLP2SV/1791000781728.jpg",
       "studio": "outher",
