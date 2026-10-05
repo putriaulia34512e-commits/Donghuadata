@@ -3201,7 +3201,7 @@
     },
     {
       "judul": "swallowed star",
-      "updatedAt": "2026-09-29T13:20",
+      "updatedAt": "2026-10-05T20:20",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3240,7 +3240,8 @@
         "DM_xb4ze1m",
         "DT_LAvVS5Zb3J3niSnGc9sZ9j",
         "RM_v7dlukk",
-        "DT_SLU9NACPQsgwUtsa6uwnCX"
+        "DT_SLU9NACPQsgwUtsa6uwnCX",
+        "DT_D2uMi6dRRRq2mqXLC8Cbyn"
       ],
       "download": {
         "sl": [
@@ -7690,6 +7691,41 @@
           "#",
           "#",
           "#",
+          "#"
+        ]
+      }
+    },
+{
+      "judul": "link click season 3",
+      "unlockEpisode": 1,
+      "updatedAt": "2026-10-05T20:30",
+      "kategori": "Anime",
+      "genre": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "rating": "7.8",
+      "status": "ongoing",
+      "jadwal": "jumat",
+      "poster": "https://i.ibb.co.com/rGSbGBP5/images-19.jpg",
+      "studio": "CMC MEDIA",
+      "season": "2026",
+      "durasi": "23 Min/Eps",
+      "totalEp": "12",
+      "mulaiDari": 1,
+      "video": [
+        "RM_v7e3rsi",
+"RM_v7e3s3y",
+"RM_v7e3tio",
+"RM_v7e5bze",
+"RM_v7e5c2a",
+"RM_v7e5c4m",
+"RM_v7e5c8u",
+"RM_v7e5ch4"
+      ],
+      "download": {
+        "sl": [
           "#"
         ]
       }
