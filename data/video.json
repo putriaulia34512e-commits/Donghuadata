@@ -566,7 +566,7 @@
     },
     {
       "judul": " God of Eternity",
-      "updatedAt": "2026-09-29T13:40",
+      "updatedAt": "2026-10-06T17:32",
       "rating": "5.6",
       "kategori": "donghua populer",
       "genre": [
@@ -607,7 +607,9 @@
         "RM_v7dn0ne",
         "RM_v7dn1b4",
         "RM_v7dyem0",
-        "RM_v7dyfky"
+        "RM_v7dyfky",
+        "RM_v7ea2a2",
+"RM_v7ea2y2"
       ],
       "download": {
         "sl": [
@@ -1662,7 +1664,7 @@
     },
     {
       "judul": "Lord of the Ancient gods Grave",
-      "updatedAt": "2026-10-03T14:13",
+      "updatedAt": "2026-10-06T17:13",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -1716,7 +1718,8 @@
         "DT_Nxr8nFFVdb6PSLWjQNBAP8",
         "DT_9EEfxSGV7n2fF2e8Qo4A1z",
         "DT_4haRG6T9VLSfk9BkFS4KuA",
-        "DT_FRRSFzxsSTqCsFedKzPJeJ"
+        "DT_FRRSFzxsSTqCsFedKzPJeJ",
+        "DT_C8k8CahTphhQKwEvwU48gq"
       ],
       "download": {
         "sl": [
@@ -1752,6 +1755,49 @@
           "#",
           "#",
           "#",
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": "Return of The Immortal Emperor",
+      "unlockEpisode": 1,
+      "updatedAt": "2026-10-06T11:30",
+      "kategori": "donghua populer",
+      "genre": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "rating": "7.8",
+      "status": "tamat",
+      "jadwal": "jumat",
+      "poster": "https://i.ibb.co.com/vxdkZz9X/photo-2025-10-29-10-54-17.webp",
+      "studio": "Unknown",
+      "season": "2025",
+      "durasi": "23 Min/Eps",
+      "totalEp": "16",
+      "mulaiDari": 1,
+      "video": [
+        "RM_v6yqxlm",
+"RM_v6yqxw4",
+"RM_v6yr2fg",
+"RM_v6z276m",
+"RM_v6zemdk",
+"RM_v70citc",
+"RM_v6zqvde",
+"RM_v702ka6",
+"RM_v70n5e8",
+"RM_v70xn8s",
+"RM_v717xqe",
+"RM_v71hq9a",
+"RM_v7e705w",
+"RM_v724cmy",
+"RM_v72funq",
+"RM_v72rtu8"
+      ],
+      "download": {
+        "sl": [
           "#"
         ]
       }
@@ -3445,7 +3491,7 @@
     },
     {
       "judul": "martial master",
-      "updatedAt": "2026-10-04T12:18",
+      "updatedAt": "2026-10-06T17:18",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3506,7 +3552,8 @@
         "DT_E9Qox6zvghzen4eezjQnPx",
         "MM_58mvkemcnzd",
         "DT_Mkj3XLxh3FGZt17Zdq5Mdu",
-        "DT_JoWCs8HEe3nQfEak8fhcsu"
+        "DT_JoWCs8HEe3nQfEak8fhcsu",
+        "DT_EBPfv299CdtwGd5eNUu5zz"
       ],
       "download": {
         "sl": [
@@ -3887,7 +3934,7 @@
     },
     {
       "judul": "100.000 Years of Refening qi",
-      "updatedAt": "2026-10-03T14:39",
+      "updatedAt": "2026-10-06T17:12",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3943,7 +3990,8 @@
         "DT_FMYx5yuwFKr6RZWrz8b4oc",
         "DT_QGLHC2LUtMWBFp4BnVJb9D",
         "DT_TUDjByEXsJxJKWwc5qCtfz",
-        "DT_VDMUqByJHiXosAKpsZTqxi"
+        "DT_VDMUqByJHiXosAKpsZTqxi",
+        "DT_87GrNkwnfmjntcvsAnNucT"
       ],
       "download": {
         "sl": [
