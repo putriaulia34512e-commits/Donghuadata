@@ -71,6 +71,63 @@
         ]
       }
     },
+    {
+      "judul": " To be winner",
+      "unlockEpisode": 2,
+      "coinPrice": 120,
+      "updatedAt": "2026-10-14T13:05",
+      "kategori": "anime",
+      "genre": [
+        "action",
+        "fantasy",
+        "romance",
+        "Video game"
+      ],
+      "rating": "7.2",
+      "status": "ongoing",
+      "jadwal": "senin",
+      "poster": "https://i.ibb.co.com/zWq0qvqb/To-Be-Winner-Subtitle-Indonesia.webp",
+      "studio": "Colored Pencil animation",
+      "season": "2026",
+      "durasi": "20 Min/Eps",
+      "totalEp": "16",
+      "mulaiDari": 1,
+      "video": [
+        "DS_1hijk66lq5g7",
+"DS_ydkm09e3343n",
+"DS_ysq94xk8u6k9",
+"DS_y7ji36ig122c",
+"DS_ij7msw5xjidt",
+"DS_7i4j5w8sovrj",
+"DS_0865vcpgmfth",
+"DS_os62fcggrky3",
+"DS_u1af2uodby69",
+"DS_eamz2e7lyiwm",
+"DS_o8e92xno4koz",
+"DS_7ikf4n1exune",
+"DS_s60wdesxwndq"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
    {
       "judul": " Xi Xing Ji: Asura Season 2",
       "unlockEpisode": 1,
@@ -10886,6 +10943,75 @@
       "download": {
         "sl": [
           "https://safefileku.com/download/XJa9y7TnEFa0u8uT"
+        ]
+      }
+    },
+    {
+      "judul": "Zenless Zone Zero · Cissia",
+      "status": "cosplay",
+      "hd": true,
+      "kategori": "Image",
+      "srcImg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE8vgdHhuslsZi01xyD_x8UEYG-W-rfe5Uh7uWgjxG7iFaXlNRcEXayQtdhcBnlA3_Ji3G1BodG9yRZSyLNqgkRiFYAo6B0GswOvSz0t7MoXknKgirrBYq-gK4wWEM6gDlBdNNdly_IfYjuO1eKvWh2Il0RHf3GT9KKN7_R6yxudP45n1oSxFLVnitbNSo/s577/86dd41167073fee01d7b5247f22dc333300d01ecc5d658447c305952c114bd1a.jpeg",
+      "preview": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaNtA4UjKZL_J6tavnkWzZeuA3mSj3avpmJB5LWCl9jXOVB7lO9UKh-mji0omRpBMzqOYS089JDBItH5pW3aIsP5Lap3A21Dkt7K-pIhIwU-Z55ra0PngqTJIYnT-iiSyjOHbFsddD9Dr6uuRLeUqqNwhSPZuArndSYoiRSXJJEJYKFNVnS8s-c812Hv42/s577/ce7ec6ed9a72c482ad81feba44f76017b10a1b5c6fcf1dbf2f8cc3e32abcc2a6.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNDpCgyk8yiS7XPUI0fTjYn-9HT61r-kcEJHalC3trkq6ZkZUkNMXDX5gGacSfFy2OuH6NFN4QU7m2tO1CfULq_EIOU5Cbxm6BN4B7kL2ChMJ5F2_tw1s5VS0VAaom9KjMkZi3Hl7fZwugeCTyOfY0Z96ea5qacQmdNUKtZMdRKVEk0QOvnasZ6FEFT6Zt/s577/c2c8ea52d406fba6e93cde4401badfd22a06c48c73e9153563ebcea7baeb9fab.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9olTDh9PH2fe3uK6aJzi2fBKICM7NqOW0Cg5fX31t3_IgrdJBwIhggrZ60VC6i7G91dZQcxQNi-SQggY93b4EfjtLXBlTFZQg1EXRX2ccMab4NbFXEH493kNH6JSEKZHVzWSrFDycyMFPPoap40ZFajtsu_hnkbJJj0O5dVn9D5-nmE-olSuhcUek13E/s577/61399ad0722799c398fdb6f10978b27e6401a4ad866e600807ecdd8a770005da.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg08NEGjBWSLcdH7Qh3sSND9Zf9LFratqCfgcJjtq6TCzUACyFsD8fezqqg8d0IT5DHTLypvb4n_2iC7CGI2MVPEwLtuVGmLmqraSQT39ubOyBQYG8GyJYt_fuZpHE1KFV2GDNdhJhoW9CzMgaHPNEpk46cxZTWBS8qyZC-Q92hItmO1MeAHm2Pzpg7IbeR/s577/3c3ad9d43d1e14553ae4d7cb9d5ad0800d563132db7d8b14cdb565c2fa041600.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_JhSD8om8yJmCfCBc1tkGaV0w9oYVRwpqwIqjYY00GBT2ISEErSW6jmDULj2KWLTQZlDVQcsyzVLkRcnu5lsgOHJ8X-2TgmqyJ5dsuGwYoqF8Fpe0sv3Ov0tPYZqOd92K0jzBCzJE6aaUD47CADj30Xm0f8Z_vPCoudLHPVfzlHZtImQ_TaCNkycGGApd/s577/26c5e853fcdb2cce6eba157d06432af88d523e318d248a964d33b86ebfe24b3a.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0gRBOAXMxiJOA9zFbK-sEirXxkFO7kKf7IUsxfDVNrjj6TW-Nh6glVTpIkDpZeWkmGCbJdG1cvAXaw9LhJMaQMeVJbfrFJJYTGP1IwF1OXs-6T5Ny60Mu0HCFrHboNWY_ZhUJbuHAjNHZXfN2plSOTqx7cuilSzbkfQCDKz3-d6XKldyQZpB1umQanOIH/s577/b192318a47e01654f2beaa8ac2d1df726d4ed41f91b5069c6fe5e6953441390a.jpeg"
+      ],
+      "updatedAt": "2026-10-14T17:44",
+      "uploader": "Vanreals3dofficial",
+      "rating": "8.2",
+      "download": {
+        "sl": [
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": "Azur Lane · Cheshire Pengantin",
+      "status": "cosplay",
+      "hd": true,
+      "kategori": "Image",
+      "srcImg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYF41OvBUTk4f2eXnMtkN2cgPnraekK5bpsy12ARGyEUDbJVJYF9mXINfEpFfmnADoQIWrloN7usxYPQ-bO7C8C-_jfl_AhNjOIEOLGKIVNKfTyUrES214UxdW87jaW8fLpJwyQh9ErLJ_6fd5ET6AcxVZZcQIv-anIrZQB6DjoQHHCYsYIxugs4rKaeAb/s576/af8b06ef2377f2985446cf2ce5edad040bf25822113839b2e4ae96af2b2457e3.jpeg",
+      "preview": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj6C7G66uuc_5CXw5ZMe6H0lLMwqrZkXiDWzAm1Zd92Mxah0ivYPUXkXz0Pmuxrw4BhkjLRSXjizTNWLsRp5mlPIirYOsSIVVn34XuoIeh5U_FtbxNTPboL10gR0OLOPLCdi7v_aGtOXmhX0HkIrDqClJSlKPZptaG8pcB_HU1Y6xxuAO6HL5tE2UlS9ib/s576/c5025bc261df93cd921ee8f3e41baeb864ae7fee875e56c0a40453ebba245995.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnPNRPJrqUVx-00pcsSHXx6yVf4lvH_Iio_iPQg47rPigD9hW0eMu3Mkd3Z-X_xRlHO7GxeN3G7k5Q4OPWSaX_nahUVjjTEgAVTqoxr0Nqo6vGc4uPVHLZ2sbudpe3JuTPzbpjsQ6H94xN8TTAAkLp-ThPgVKYxcky_aL9UV4SNMA6e1AzGq8mj3-n1LrJ/s576/ea8634304d6b4a192219cca5d2a4ca22c2d4d83513f471df5320aa12d4742512.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9MfR4sUgrPjn1DmfbLzqHCXaXVN6PKwt2m5V2MIOnHK7r4mPHMOJ3DgjcR0aZdh1tK8gIIHNgQSf1O1nixJJlGGjaSgRNex4Zr2hob5oQmZ2lb6qgujKoPr1FVMcUrQ6bJzd691r4WoFJ246ThMH_TXveyNBD9cJ6jV0HtIg2VJyDmriJB9gp8G0ixfi_/s576/10650e666296e96748ae2995cfd534bd1a83365e8c5189900bc4c051872a0ccf.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiouLRWQBnI9TTxuHO9XD48JZDuUmeIZtMo4bBZEH315ZaVZFMaCKDbx4u6ky3HUbSCPI4tnHufbDUpivkbr0IoO1zumrVpaIe0wn5MlMPXMj05GJB5HBfIWdY267T8_xztbzMIHNCSM8-e9NMaOsFOyaZ2mdrA2yk9I292jZTLqKRhnC0gVspjyP56fFpx/s576/1103e85abe196972129a9f1db715bb592e68d0981b74b79a82285e5310fc4f38.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz1e14L3CvBOP1jKsAEUncGPFiaOSn-qXtjC8wMbxhAWl2n2oCjh6M1K1sRc6XrJLEexc2QZfnoAt-NcLykH-M2d36XISqyCg4GT-YdzMXYknj5QGcFS2b70IMnJyowNm1WPYKsY9iaro5muxW_QCA6Zy97g4La3UFUFD9flZXhQYD4JLy39ZYuG3GjTmQ/s576/00644e72ad31bd89280ef43118b4b563e136a1a43811aad8be32aeb53bcdb8bc.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4UZSGkO_D8ttv-1WPexoAiwHJVfd_eCoDV1Vcd7uQDOcvE7v4slM5IEYzs7wXnCSVUD-9JP2UuyizDakUlFv5RlL4Ewfs-Y7IdEIudrnuRq3mvM3QZqG-o1bBlG3dqsX9iz6JA2DLVUvm-yYgcsOuAzEAmIFoPvei3-M_rTX-kD6qvQBn3_sj7X87YypS/s576/bb97ae7fd06f32ffc66e51d350a1320405e9da18b18aa1ca07d4eea2cdcf2933.jpeg"
+      ],
+      "updatedAt": "2026-10-14T17:44",
+      "uploader": "Vanreals3dofficial",
+      "rating": "6.9",
+      "download": {
+        "sl": [
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": "Wuthering Waves · Alice",
+      "status": "cosplay",
+      "hd": true,
+      "kategori": "Image",
+      "srcImg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAljFY47vOjs0hjrdj08CgcTJGlgZyMkMwhaazQPhjA3inch62J3gt9h_miPrd6t0pZGDJw2f7IGQQD1igbCcbfeLLB8ziHzWOvldmX4jh5vVLYgDgIwuyVq89Gqz9i_IMS5TIzs3iNIouTs2RwRBy5ttbRhMuWXk4EpYAxKlz0f-cqqBB5o7_F8OVftbe/s3840/32329b642e57d53af6c74e0618666ba077bdf1fe7377b2f781777c8cfa50ec21.webp",
+      "preview": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpolI7ynqNCbMCMQBCK8drZdd2MTYT8Z_pMxJ8C09ijvwqWH6bnnaXgTDWM2LYTw999QsLuWRas9ZYcMOfYMEJUcCoS-nh6CjGbQWS2ZgVo9NpcNwSPd92bJR0YUfqCC0z3FAip9OrWkr8Ba1hXNF8YTpb4L3F7O_NjCwTQgTXHEOT9BHWa9JNW58NLeq3/s3840/5419b49a5394267001dba7267b718836c1c41032f5338ffc674fd3af2e15758c.webp",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDWCJNUL-6v0hG6-I6qZqJDWVonp9d00pEbbFf_-ikM-aZSiDkfU-RLrJ67YmLIXRLjE7aVMM3NJkBHMVmzrgzgfpa7P6r0EfeLpq-lzHZnx-TLjCYCfWOdR38MLHT8nDheZMhRI6c2ZSOB_G44M_Nt4PnjyuVDxDtHXawJPDOAEBEnQh2Gluh3Idfmjig/s3840/5f90370c48a7860ebb4cc6c94092ee1f4c7ba4db3319906e4396531bec6baf86.webp",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwCoaWfwck_8h6VYjwQEU45RVDPqY43srqk2ujWHsyc9EElW8SV6dWQEx1jjK6KrvRXhuzPKSfXtok9xTYHofWfAjD-oVATj4TtPFbRuq3B98IP3sWqjcVcRP9Z96bcdD2q-282WyRfdLA86VmRHhxW7qqkS-gKMqcxIceiTFOTTuPWBEYYup_Jg8FfAmO/s3840/4fc4f8f216f1aa841968727b8efe1f454638475e8b883db5533f6d05a47d6890.webp",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaGh-UFliaDp50vM8SUoxhbzjVse91_9GsF60YPL0083Zg7604shlLkurYUEI0C8ChNbvO9j9p2-12dt2foINsoqE_wxCrN0j5Q6JXB3j3LDNO3_AL_GWH-gI9ZBQVT26uVI-lAk96kwdyzdo-5UBrkEo5JbQ4OvpYdv5gDe_5pCtwXDDQFCRWQa_N79NP/s3840/648c422e5299243a4c3fe466732597e120fc17eb3c6e0532a19335fbc8af1b6a.webp",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsa1EtrxQMjWehu_d7jimLUYgjffjYvRKsH6wmryvt4BMqWhQBGdDLt5Evx3xaXwzJ9wJkyeVv2cuPUu_JfHtdgpWmDO6gLQv0anjYuTCBa6Mvpb21GyKySdRTN1eTNDlurVG3ZkiG7Xt8iL6FhKMomiLk85seWz2arYfbW7dIJUSudd9jJ7Nkk9sMndHH/s3840/33cc8dc5230d36a695925bbc199b507a0a1f0343b9367809af3a8d6133e55be4.webp",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJG88kpQD7wgZ-BtI4LsNoT5DvrZolbhhdso3aVNqJRI7WuDneoHBmvCR1_3juvBc8wpO1xLcKS3_gqPt2ZwCb4oeOY7yyVhg_WzcHohP8ya43Vv2eMTAdGRyvMqStJmA4ySFV2dedLRLRWEEVuyUShdWDbPveXlHO6MTJKQP-b17uSdMNZUxykNeKWIY6/s3840/6384599593bde631c9ed61abb278b1b15e7e73c453e8aeca486171ecd9bf7304.webp"
+      ],
+      "updatedAt": "2026-10-14T17:44",
+      "uploader": "Vanreals3dofficial",
+      "rating": "7.2",
+      "download": {
+        "sl": [
+          "#"
         ]
       }
     },
