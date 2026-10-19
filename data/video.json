@@ -3610,7 +3610,7 @@
     },
     {
       "judul": "swallowed star",
-      "updatedAt": "2026-10-13T16:01",
+      "updatedAt": "2026-10-19T19:01",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3651,7 +3651,8 @@
         "RM_v7dlukk",
         "DT_SLU9NACPQsgwUtsa6uwnCX",
         "DT_D2uMi6dRRRq2mqXLC8Cbyn",
-        "RM_v7ekkl8"
+        "RM_v7ekkl8",
+        "DT_NPsmWyG85cjNupF9Aw4tvE"
       ],
       "download": {
         "sl": [
@@ -10799,10 +10800,242 @@
       }
     },
     {
+      "judul": " Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "unlockEpisode": 2,
+      "coinPrice": 120,
+      "updatedAt": "2026-10-19T19:05",
+      "kategori": "anime",
+      "genre": [
+        "action",
+        "fantasy",
+        "Reincarnation",
+        "isekai"
+      ],
+      "rating": "7.2",
+      "status": "ongoing",
+      "jadwal": "minggu",
+      "poster": "https://i.ibb.co.com/pv64jGfj/Tensei-Kizoku.jpg",
+      "studio": "GeyeG Pictures",
+      "season": "2026",
+      "durasi": "24 Min/Eps",
+      "totalEp": "unknown",
+      "mulaiDari": 1,
+      "video": [
+        "BG_AD6v5dxTi_84WGcV0dz3ACs9lrfNEEpVVnYnUuur6HQHtsXuhx5hQ_Z9K1BeW87XykwjhgespRnn2BS9pSka5SCiCPXu0QRlzldPhr82fRauuM4CRv1tJHtzOkJuqKZbAr_vYUMsa5n-",
+"BG_AD6v5dw0i2ne4-jnOMF2aTjqUOXwHTVCXE1ffvE_5KeDjqVyT4gVb2-_W7ovX27YzuUJAy3PGV_LCySOkbWZrwWm7sFihZjRR5MkU9W62UlrGHvOVyHuPfsERtSL4aETNw_ltOg",
+"BG_AD6v5dyjdbdVab9G6YDkaJttqai8ZL6Gp4sGC9OMim5e_0EXSNFfxLshORRO8vYzia76MU6BwZ_-5cbuhaCqVx_R2slO_OjWaeiDcalTUTPYkQ3BXz1Sg2HZWHjHhrzuknL8z61PuWOd",
+"BG_AD6v5dyQEmkL_qDPPODgSywVYsSjjABQfFlzSWEkSqVD9cyysAtLFOvrvvADf3t6SR3-L6b5sB7MRAjHW-KHLSV6rTkvoZM8DR9rDK09x4auxOySkA_UbdQFLoMFZQy9oWqdZDkrGUJs"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": " Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta ",
+      "unlockEpisode": 2,
+      "coinPrice": 120,
+      "updatedAt": "2026-10-19T19:05",
+      "kategori": "anime",
+      "genre": [
+        "Romance",
+        "fantasy",
+        "Shoujo",
+        "isekai",
+        "Villainess"
+      ],
+      "rating": "7.2",
+      "status": "ongoing",
+      "jadwal": "minggu",
+      "poster": "https://i.ibb.co.com/N6dnW8Lz/1791114812-7913-159886.jpg",
+      "studio": "Jumondou",
+      "season": "2026",
+      "durasi": "24 Min/Eps",
+      "totalEp": "12",
+      "mulaiDari": 1,
+      "video": [
+        "BG_AD6v5dxt1YdGVbsK1kZGKOLNKxTsS6tfODP2IvP2pv-VRk6KoXs5ckqgfac82CvZGMt5D4eckxZ3Eki-Dy9euEno_ojm6lChfSVsKNCBMc3h9w-tMKJuV8PbOtQFJ88OQb8Eb9Il_L4",
+"BG_AD6v5dxPY7FfsoZK_FmhG8eBfPTyZTfK4BlrGi7KYa8o9ciTrCWVWevLfRmmICNBbda3GSAr3QsHZwOijsVwmjC4nVNhkOBqcN9OfHKF68CiINCegVMUuI26u-O7cSFh1zGNaJqVxbBh",
+"BG_AD6v5dxhdB_ttzbVo_-6kbEoiDuBL34fCic6iJfrvlhbRZMTBUDAzGYh313EKECv8e83AoMa939YSWR9DroQXUx0n9rFMI8mQTocDsiQpNdcFagFIaApkZZpsHF2OMiIgbceiriH0iow"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": " Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+      "unlockEpisode": 2,
+      "coinPrice": 120,
+      "updatedAt": "2026-10-19T19:05",
+      "kategori": "anime",
+      "genre": [
+        "action",
+        "fantasy"
+      ],
+      "rating": "7.2",
+      "status": "ongoing",
+      "jadwal": "minggu",
+      "poster": "https://i.ibb.co.com/bM06J0th/1791114960-5469-160053.jpg",
+      "studio": "A-Cat",
+      "season": "2026",
+      "durasi": "24 Min/Eps",
+      "totalEp": "12",
+      "mulaiDari": 1,
+      "Sinopsis":"Cerita mengikuti Sato Takahiro, seorang pekerja kantoran biasa dan penggemar game, yang tiba-tiba terbangun di dalam sebuah pesawat luar angkasa milik karakternya dari game shooter luar angkasa favoritnya. Menggunakan perlengkapan terkuat dan pesawat canggih tersebut, ia memilih untuk hidup bebas sebagai seorang tentara bayaran (mercenary) dengan tujuan utama mengumpulkan uang demi membangun rumah impiannya sendiri (ikkodate",
+      "video": [
+        "BG_AD6v5dwQ2fpqAN_acXniOOcvhBMGorSFc2MuCqTiwMSb-_IuLDOvZOL5-ScfeA-BQSErkZBnh-U0IlLF9gLk5xDWQGLtfg0_nWiPlbkwTomLZXYnf94ebx0Men49WYTMVmhd2I5-Mz8",
+"BG_AD6v5dxmJ-F9pfhg8Pe5bk72EJTZN_PSzbAzvII2YNK1SXYLrGfOxY8A_5QyYMgXaB9XrDsmIevPTxoSXejj4psUMqY-RTefzrPD2xOh2RUWPhY-EtgCT3NsY8bjbciebr-KF0c11KE",
+"BG_AD6v5dyAgar_SvaKXYgYhcHkLgtUIyb1HBH6rnMplQSHcTAkphMf1AHFXqETPPkXrLoCsbrHf_qIOf22OHvAW-tAUyFgNo-zm9WgnQxEumUfQ5t8ODotMaVtGCx75BjJFYfREbcb7uk"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": " Mahou Shoujo Ikusei Keikaku: Restart",
+      "unlockEpisode": 2,
+      "coinPrice": 120,
+      "updatedAt": "2026-10-19T19:05",
+      "kategori": "anime",
+      "genre": [
+        "action",
+        "suspensi",
+        "fantasy"
+      ],
+      "rating": "7.2",
+      "status": "ongoing",
+      "jadwal": "Selasa",
+      "poster": "https://i.ibb.co.com/mr3z00K3/1791164843-5827-160127.jpg",
+      "studio": "unknown",
+      "season": "2026",
+      "durasi": "24 Min/Eps",
+      "totalEp": "12",
+      "mulaiDari": 1,
+      "Sinopsis":"Sebanyak 16 gadis penyihir (termasuk Pechka yang memiliki kekuatan membuat makanan menjadi lezat) ditarik ke dalam ruang simulasi bergaya RPG oleh pihak misterius. Mereka dipaksa menyelesaikan berbagai tantangan permainan demi bertahan hidup dan memperebutkan hadiah uang.",
+      "video": [
+        "BG_AD6v5dzKDLy5Sd12J4HDM4xf7Tj9VRJzXAZLdpKMTGO4IzILIBJH7tkBNIa2GpzNO5vQWf2Gj-6ot9M3UfgST6b-L0EssI2rFSO97v2Q8NX7xf6lQ6q4jY568tTSxKFujhbs9n6ds-4w",
+"GF_Dbh7ulzr",
+"#"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": " Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+      "unlockEpisode": 2,
+      "coinPrice": 120,
+      "updatedAt": "2026-10-19T19:05",
+      "kategori": "anime",
+      "genre": [
+        "18+",
+        "hentai",
+        "fantasy"
+      ],
+      "rating": "7.2",
+      "status": "ongoing",
+      "poster": "https://i.ibb.co.com/Y7hRRNL2/1789147070-4648-159258.jpg",
+      "season": "2026",
+      "durasi": "24 Min/Eps",
+      "totalEp": "12",
+      "mulaiDari": 1,
+      "Sinopsis":"hentai dilarang tonton di bawah umur 18+ adegan seks",
+      "video": [
+        "BG_AD6v5dxb5R7wbgZP6rpIu-YwOzBIeH_ofEtWvOsbypf0YLbOp0W3mE0NKBTUmkifc4Z46phr1NDC4qvU9lflB1g9-XD7C8nIJbAJkrP6_jRmC_xsnceLf_i8YEwJpjIa4PX7a4TFKdYM",
+"BG_AD6v5dxNntHaXEl9VY4Dc3UwFGvuFX01b620Ybka7UwHikJApGFQnjPnFaBLLK2fkoN2Ub2KPp3TatPMknqXDVEGB5vpHe4xpJJQjUPyBj40fIVn8bovQlRenyOelez-Dd0PcRnUpx4n"
+      ],
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+    {
       "judul": "Orang Pakai Insting, Aku pakai Pemindai HP",
       "poster": "https://i.ibb.co.com/s9PxzYzw/1788834924505-7075532432189746-3-4jpg-tplv-vod-rs-651-868.webp",
       "unlockEpisode": 1,
-     "vertical": true,
       "coinPrice": 50,
       "kategori": "Ai",
       "genre": [
