@@ -3,7 +3,7 @@
   "videos": [
     {
       "judul": "BATTLE THEGROUND THE HEAVEN S5",
-      "updatedAt": "2026-10-24T19:16",
+      "updatedAt": "2026-10-31T19:55",
       "rating": "9.5",
       "kategori": "donghua populer",
       "genre": [
@@ -46,7 +46,17 @@
         "213": "RM_v7e5a5y",
         "214": "DT_2TZAeg1MjUmAcnQfbMpZfy",
         "215": "DT_43FgsauYxox2r47fbvxwpD",
-        "216": "DT_DQzu6haZpeEmyYpveRHBk6"
+        "216": "DT_DQzu6haZpeEmyYpveRHBk6",
+        "217": [
+          {
+            "nama": "Sub Indonesia",
+            "id": "DT_Qxvetf2oY6GeNzStKnNLid"
+          },
+          {
+            "nama": "Sub English",
+            "id": "DT_9e5YHyAfzf92wdg5h97xmi"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -1958,7 +1968,7 @@
     },
     {
       "judul": "Lord of the Ancient gods Grave",
-      "updatedAt": "2026-10-27T20:33",
+      "updatedAt": "2026-10-31T19:23",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2019,7 +2029,17 @@
         "492": "DT_GmxLhe5LPrxyHgywsQ2Ck4",
         "493": "DT_AduPPdHNFJMbMwjec9Qosu",
         "494": "DT_2CtPJgya4Ew4NFa6mrpEFM",
-        "495": "DT_Ei7DoHGzd7W6qX8yKoohW5"
+        "495": "DT_Ei7DoHGzd7W6qX8yKoohW5",
+        "496": [
+          {
+            "nama": "Sub Indonesia",
+            "id": "DT_6Zr9zqato9Dd9CELBdaXeF"
+          },
+          {
+            "nama": "Sub English",
+            "id": "DT_3ri3SQeJeZ6W3Y8boqT7Si"
+          }
+        ]
       },
       "download": {
         "sl": [
