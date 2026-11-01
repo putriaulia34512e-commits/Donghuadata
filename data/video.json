@@ -1624,7 +1624,7 @@
     },
     {
       "judul": "Primeval Overlord ",
-      "updatedAt": "2026-10-29T10:01",
+      "updatedAt": "2026-11-01T11:40",
       "rating": "6.3",
       "kategori": "donghua populer",
       "genre": [
@@ -1671,7 +1671,17 @@
         "27": "DT_SdvNpHF1e6DQDSz7SBEgt5",
         "28": "OD_@ChineseDuniaQi:5/Episode_28_720p:8",
         "29": "RV_k1ul2yiipe5u",
-        "30": "RV_p7jbwha5b76w"
+        "30": "RV_p7jbwha5b76w",
+        "31": [
+          {
+            "nama": "Sub English",
+            "id": "DT_BJKgdzfybS9LBhDJEgZGuS"
+          },
+          {
+            "nama": "Sub Indonesia",
+            "id": "DT_4vd53V7C5GNxWESbuJkdDF"
+          }
+        ]
       },
       "download": {
         "sl": [
