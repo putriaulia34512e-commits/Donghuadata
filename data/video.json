@@ -729,7 +729,19 @@
         "10": "DT_EjHwGFGpuvMCtAvXbqWMc5",
         "11": "DT_PQHLxVry1UTT4yyfNPpK9A",
         "12": "DT_K9MzDQiyBre4JJuEETyiGW",
-        "13": "DT_FrwzyJJ5QA12UDgu41T4mw"
+        "13": "DT_FrwzyJJ5QA12UDgu41T4mw",
+        "14": [
+          {
+            "nama": "Sub English",
+            "id": "DT_7f1Z2gsGAFKws4UVnELf47"
+          }
+        ],
+        "15": [
+          {
+            "nama": "Sub Indonesia",
+            "id": "DT_TiDc7FnEt7Yif79m1GfdAd"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -3651,7 +3663,19 @@
         "221": "DT_JkScnm4RpktRapoGbeM8BU",
         "222": "DT_2AnjjgKQ2iripRikHpYak9",
         "223": "DT_XHbTmU7s7mDdugTA5NtaDi",
-        "224": "DT_U9s5UJiL5bvTwTEFKYr7WN"
+        "224": "DT_U9s5UJiL5bvTwTEFKYr7WN",
+        "225": [
+          {
+            "nama": "Sub Indonesia 1080P",
+            "id": "DT_LmXjKXic8giUk79Byd9rZv"
+          }
+        ],
+        "226": [
+          {
+            "nama": "Sub Indonesia 1080P",
+            "id": "RM_v7fih48"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -3901,7 +3925,7 @@
     },
     {
       "judul": "TALES OF HARDING GODS",
-      "updatedAt": "2026-10-25T15:36",
+      "updatedAt": "2026-11-01T11:42",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3943,7 +3967,19 @@
         "103": "RM_v7e6ksm",
         "104": "DT_5npPpvaCs2SeT2kyWFAXss",
         "105": "DT_E7H65nf53AA5B5gBDubn7H",
-        "106": "DT_PCTgYANMc138vfGykGoVtv"
+        "106": "DT_PCTgYANMc138vfGykGoVtv",
+        "107": [
+          {
+            "nama": "Sub Indonesia",
+            "id": "DT_ER2qqVvQ2ifLKkSzBR7wLV"
+          }
+        ],
+        "108": [
+          {
+            "nama": "Sub English",
+            "id": "DT_NS47oyK1ymF8MLAhLsBqdN"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -4043,7 +4079,19 @@
         "701": "DT_78axbEXCyLQBeVZhojaCLV",
         "702": "DT_F59MSgtLpbS7Eo5iYkGach",
         "703": "DT_2pJxqMaxxtoMSJ85Hu41Bq",
-        "704": "DT_V8uALC2sdT7FtRu3AzG6mA"
+        "704": "DT_V8uALC2sdT7FtRu3AzG6mA",
+        "705": [
+          {
+            "nama": "Sub Indonesia",
+            "id": "DT_KH2AEDNZf1z9USpKfLkpuV"
+          }
+        ],
+        "706": [
+          {
+            "nama": "Sub English",
+            "id": "DT_MxKhQpUbq6CiR2d65J2vKe"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -10581,7 +10629,13 @@
         "1": "BG_AD6v5dwBuUbzEf3o4RqqzKCXzda6t2wggABwVylVD-ZC2yMOqYEjaHBFUXoaCEX8MTO0D96AYXtn7YXhv9KaDVp8tGaUm0eUH4f5qB-MMATp7Ea1D-sg5ItYD5h8tcXNwsi1t7gtGD4",
         "2": "BG_AD6v5dy5Lk3lwhZGTtLPQFr4ebkpgfAdgcj-q6cRSl5lXzRKD2cm7xvP7kUsfA_x403L-kIB3jSpD3ASS4ym-uCkHrvLHA7fQ73MhGiom6XPfkBdiz8iRU_c8z5YTLu8pJt7kNYQj3Y",
         "3": "BG_AD6v5dz_gZxniq0LGsugzaOfJqjsntWc79WiPgNLfg8ingMgKRyE60TzNDD9MkHd2b6OJ_07wvngYH4vxZhTp6CGsTP-VB7oYK2vFAXzXDTTl1-95VQr9mSMT_Pg4PTaI-V9CFgXpyti",
-        "4": "BG_AD6v5dz_gZxniq0LGsugzaOfJqjsntWc79WiPgNLfg8ingMgKRyE60TzNDD9MkHd2b6OJ_07wvngYH4vxZhTp6CGsTP-VB7oYK2vFAXzXDTTl1-95VQr9mSMT_Pg4PTaI-V9CFgXpyti"
+        "4": "BG_AD6v5dz_gZxniq0LGsugzaOfJqjsntWc79WiPgNLfg8ingMgKRyE60TzNDD9MkHd2b6OJ_07wvngYH4vxZhTp6CGsTP-VB7oYK2vFAXzXDTTl1-95VQr9mSMT_Pg4PTaI-V9CFgXpyti",
+        "5": [
+          {
+            "nama": "Sub indo",
+            "id": "BG_AD6v5dzfmLUR9EGv333AAkWkRbFY17MGrnK-GLdzBOxDWav_M26L59_ELSBPI9mqNJAq3-Ogzw-RIpoK7TnkoahKbmWyf0mj9a0vuXR748PYVlaeZKjxRkCUkZQSVtAUELkNHuUgsMw"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -11526,7 +11580,15 @@
         "1": "BG_AD6v5dzKDLy5Sd12J4HDM4xf7Tj9VRJzXAZLdpKMTGO4IzILIBJH7tkBNIa2GpzNO5vQWf2Gj-6ot9M3UfgST6b-L0EssI2rFSO97v2Q8NX7xf6lQ6q4jY568tTSxKFujhbs9n6ds-4w",
         "2": "GF_Dbh7ulzr",
         "3": "BG_AD6v5dyDghd8KmozcCJMng1nizgUeyb1fAXU4C0UVhiNRZVJl8dTxGg_5zaGusapfbQNJRFETlSV-2IesWXEzBf0SD4S095FxG-6ydKCF5b2ROz0JHbjxGDcMt_dpLyMjJOzSxftZ7Y",
-        "4": "DT_Q2DJef6S8Ke9tFG6Q3bxEG"
+        "4": [
+          {
+            "id": "DT_Q2DJef6S8Ke9tFG6Q3bxEG"
+          },
+          {
+            "nama": "sub Indonesia",
+            "id": "RM_v7f9ss8"
+          }
+        ]
       },
       "download": {
         "sl": [
