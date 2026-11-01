@@ -699,7 +699,7 @@
     },
     {
       "judul": "The God of Wealth Dou Zhanlong",
-      "updatedAt": "2026-11-01T10:58",
+      "updatedAt": "2026-11-01T09:03",
       "rating": "8.4",
       "kategori": "donghua populer",
       "genre": [
@@ -729,7 +729,17 @@
         "10": "DT_EjHwGFGpuvMCtAvXbqWMc5",
         "11": "DT_PQHLxVry1UTT4yyfNPpK9A",
         "12": "DT_K9MzDQiyBre4JJuEETyiGW",
-        "13": "DT_FrwzyJJ5QA12UDgu41T4mw"
+        "13": "DT_FrwzyJJ5QA12UDgu41T4mw",
+        "14": [
+          {
+            "nama": "Sub English",
+            "id": "DT_7f1Z2gsGAFKws4UVnELf47"
+          },
+          {
+            "nama": "Sub Indonesia",
+            "id": "DT_TiDc7FnEt7Yif79m1GfdAd"
+          }
+        ]
       },
       "download": {
         "sl": [
