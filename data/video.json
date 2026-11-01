@@ -1722,7 +1722,7 @@
     },
     {
       "judul": "Renegade imortall",
-      "updatedAt": "2026-10-26T10:20",
+      "updatedAt": "2026-11-01T19:15",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -1768,7 +1768,17 @@
         "161": "DT_643g9H2m3tsCcEaf9E7Hkt",
         "162": "DT_NfSdjiPjVdCLdGFQvdAJQE",
         "163": "DT_WPBMtET6heytjVvMgNopXS",
-        "164": "DT_9PYWRvXDMxSUNBQSYij742"
+        "164": "DT_9PYWRvXDMxSUNBQSYij742",
+        "165": [
+          {
+            "nama": "Sub English",
+            "id": "DT_Q8a6wTR9Jsa8PFQu7x632E"
+          },
+          {
+            "nama": "Sub Indonesia",
+            "id": "DT_JL23VRDcDXLfsWXfcpCAjD"
+          }
+        ]
       },
       "download": {
         "sl": [
