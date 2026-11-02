@@ -1815,7 +1815,7 @@
     },
     {
       "judul": "under the gate",
-      "updatedAt": "2026-10-26T10:04",
+      "updatedAt": "2026-11-02T09:06",
       "kategori": "anime",
       "genre": [
         "action",
@@ -1852,7 +1852,17 @@
         "18": "DT_HiWzxZPuMgnoDe7gB6edXf",
         "19": "DT_7CrMoMUNbk1T9pVvekFjhH",
         "20": "DT_MUeuCshLbFbQY19bnVpixb",
-        "21": "RM_v7f7xrg"
+        "21": "RM_v7f7xrg",
+        "22": [
+          {
+            "nama": "Sub Indonesia 1080P",
+            "id": "DT_UsGNn4a8qCRojVDB1nSWZ1"
+          },
+          {
+            "nama": "Sub English",
+            "id": "DT_8rrTBtWTaBhKwmNYmZoYHH"
+          }
+        ]
       },
       "download": {
         "sl": [
