@@ -2935,7 +2935,7 @@
     },
     {
       "judul": "Yi Nian Yong Heng season 4",
-      "updatedAt": "2026-10-27T20:33",
+      "updatedAt": "2026-11-03T19:53",
       "rating": "8.5",
       "kategori": "donghua populer",
       "genre": [
@@ -2970,7 +2970,21 @@
         "14": "DT_XRQta9E8cw712hbMT9cNDB",
         "15": "DT_J2MoF7crBu3VuobzBzveW6",
         "16": "DT_LFGx7mZKNxWRcqFzz9zkVb",
-        "17": "RM_v7faa0k"
+        "17": "RM_v7faa0k",
+        "18": [
+          {
+            "nama": "Server 1 subtitle Indonesia 1080P",
+            "id": "DM_xbt4i7a"
+          },
+          {
+            "nama": "Server 2 Subtitle Indonesia",
+            "id": "RV_m7khi2s8nds0"
+          },
+          {
+            "nama": "Server 3 subtitle Indonesia 1080P",
+            "id": "DT_S5z4veV69b23x7wgu2wdoV"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -3892,7 +3906,7 @@
     },
     {
       "judul": "againt the sky supreme",
-      "updatedAt": "2026-10-30T17:39",
+      "updatedAt": "2026-11-03T19:58",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3958,7 +3972,17 @@
         "559": "DT_S7tLpdVS2eAg5Mw4tQMTFV",
         "560": "DT_2BiedFNcU4A2C71j8CqohZ",
         "561": "DT_Xu33S1fsLVWa3wdjvKhWER",
-        "562": "DT_4tL7FARn58KtDEeyrj93e"
+        "562": "DT_4tL7FARn58KtDEeyrj93e",
+        "563": [
+          {
+            "nama": "Server 1 Subtitle Indonesia 1080P",
+            "id": "RM_v7fmarq"
+          },
+          {
+            "nama": "Server 2 Subtitle Indonesia 1080p",
+            "id": "DT_G3doMbTcowtAJajtYKM4fD"
+          }
+        ]
       },
       "download": {
         "sl": [
