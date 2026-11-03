@@ -2411,7 +2411,7 @@
     },
     {
       "judul": "Shrouding the heavens",
-      "updatedAt": "2026-10-27T20:30",
+      "updatedAt": "2026-11-03T19:40",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2457,7 +2457,13 @@
         "184": "DT_GJ3vBD1dq7if781Uhd33a4",
         "185": "DT_Cjm6ggUpf6zaXzwd2Ngmxy",
         "186": "DT_Rfwq4mq3WpQcV2NtboicxT",
-        "187": "DT_Seh1oujoTr77NhXQeJpAc9"
+        "187": "DT_Seh1oujoTr77NhXQeJpAc9",
+        "188": [
+          {
+            "nama": "Subtitle Indonesia",
+            "id": "DT_PWNncT5jq3ZzHzTmLyaPwk"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -9123,7 +9129,7 @@
         ]
       }
     },
-      {
+    {
       "judul": " Ratu Hilang, Raja Naga Gelisah",
       "vertical": true,
       "updatedAt": "2026-11-01T08:12",
@@ -9143,32 +9149,32 @@
       "mulaiDari": 1,
       "eps": {
         "1": "BG_AD6v5dwRlI3j9CbUu-ohkDidfmfn3_9oD-MwvwzTtCrDx67pBkYlOsTmmyF2OiOhJcOKun0Plxt8rc9CKmdz8mJhpj-UhYqRg5cVKkbknAWEo9ixSVsf55KcqHStXx4yiZ5b8X-1MQ",
-"2": "BG_AD6v5dwL6ZgiQ_U3WBmEaVZMRe2j7st6dt2y0BLovPfCxdV0mVlRs8nEJjmaveqQEgcEwX36C7_H5cRcbvhKj9rdyUT1j7P1YuK8EpW6Mhhn_uEfaKJw7tOwiJARQYQHZitZ5CCgqMU",
-"3": "BG_AD6v5dw3Ld3Op-MTNMBI2uOA0GO37yPoCUNt3LjIpbW4E01ubImMnOulto9UqN1V-hEuy6L7gRu4sSRFwtE00Tn-qsM2uZZ8KwWs6BMZ4MdkeANLIxcsmQSG3o59DWnt7iPY6NdErA",
-"4": "BG_AD6v5dw_X8WpjGH59n6X8Q_daXasZ8jXj5tDAXypOOjmXlH0ZIU2-vsEC7CVJLGK2xfID78TjvIWjyiMwzuDJR38z4Ty3-vVPesbmQutaVG4sAusPon2Ksm7RBfsjsBC4BnWwy2PVg",
-"5": "BG_AD6v5dzejNAhrGRgmllap-bROPkGhsSNUipScjZVaKyyxqJpX_OyVWi9GlB-KDdB0WewpSj90yW3yEiHHuhQwSr-HL6ei9oKP-vJ-cs58HjiWxF01mF-ALDpRouPeOOBb0euF8tAZw",
-"6": "BG_AD6v5dwmziI4GZqsN1N3VMU4p8nTDN2uzsrsVIEUlbzjOC1W-vafvWLyakRH0gqo_6Y_01W3wTi1F4Zb0NaPgnX366oX_7XCPPU11B3nwso06L2GLFofEGs7_olH1ZgtLIqLLoKEDw",
-"7": "BG_AD6v5dweLLvrXhXO7KicfwiAfXcpTEIDNNSLxyKv29v6QS2_q3WrILxlQfA-eakinZW_Uiszbx0z0EyLhuvbSpdsqEggkSguKf4TZtLVqQ85rIYFYwnP7TVCKDrUPBYASNAUczUnoVM",
-"8": "BG_AD6v5dwihsth9nicE-i1nwduQW677ddatqDnD9aZj9O-d1Y4oRQFTDpNl15gJbH5VhgczyUwfvw5_mq0WQtXtfsEhr5DJt9JUAsn-8Joky0vAj_yq_sSl9ICvvvCBW9LMAh49QTCC7w",
-"9": "BG_AD6v5dyTxowlb6oxk2WxDleGSnrJ1lSI5kZpy5us5fiLpriaxzzNx30p9ai1aRrKCmeCtHDKK6G8Nk5ZwvrA2bc6I5ElIjdYKqC5TnlVqkdNStRcgwluzFFTh0n8c1yuFnDV5_beLw",
-"10": "BG_AD6v5dw1-Cxr_DuBtpTGEeN8GqrjoPEOi5snfAz4jB_DMwlpi3I4ScHh1fOM-OYvpr4_hID9-71DO1XteKQBsLH_oKFlKQKSmvozKO2K_6Gg9TzXmisrmpsIPi5yuBoAO90RjjPryhQ",
-"11": "BG_AD6v5dzV7NROVdcvsVNLKWabWako1BS1a0nPbi5UTaCWiom7-E0YIdX4tmCWYclRvoofxNDfHgMMdJifqk1-BX1bSSx2WV6fygR1OSTcT6_PmRQcSD9hs1Gz3ntEWsp83rZgCw7p2GQ",
-"12": "BG_AD6v5dxAGWtns5GOegHVlWyqFHQDqECs9Jj4cu8BevF-hpTewrMCZqbCvutD8XnDJk6cLReVHwbic0nqw57lFZ-pWiuO4mN9qC7i_lePlrHeDIJEgvv9TRo9eKUgg2_9HULG0eD3HGg"
+        "2": "BG_AD6v5dwL6ZgiQ_U3WBmEaVZMRe2j7st6dt2y0BLovPfCxdV0mVlRs8nEJjmaveqQEgcEwX36C7_H5cRcbvhKj9rdyUT1j7P1YuK8EpW6Mhhn_uEfaKJw7tOwiJARQYQHZitZ5CCgqMU",
+        "3": "BG_AD6v5dw3Ld3Op-MTNMBI2uOA0GO37yPoCUNt3LjIpbW4E01ubImMnOulto9UqN1V-hEuy6L7gRu4sSRFwtE00Tn-qsM2uZZ8KwWs6BMZ4MdkeANLIxcsmQSG3o59DWnt7iPY6NdErA",
+        "4": "BG_AD6v5dw_X8WpjGH59n6X8Q_daXasZ8jXj5tDAXypOOjmXlH0ZIU2-vsEC7CVJLGK2xfID78TjvIWjyiMwzuDJR38z4Ty3-vVPesbmQutaVG4sAusPon2Ksm7RBfsjsBC4BnWwy2PVg",
+        "5": "BG_AD6v5dzejNAhrGRgmllap-bROPkGhsSNUipScjZVaKyyxqJpX_OyVWi9GlB-KDdB0WewpSj90yW3yEiHHuhQwSr-HL6ei9oKP-vJ-cs58HjiWxF01mF-ALDpRouPeOOBb0euF8tAZw",
+        "6": "BG_AD6v5dwmziI4GZqsN1N3VMU4p8nTDN2uzsrsVIEUlbzjOC1W-vafvWLyakRH0gqo_6Y_01W3wTi1F4Zb0NaPgnX366oX_7XCPPU11B3nwso06L2GLFofEGs7_olH1ZgtLIqLLoKEDw",
+        "7": "BG_AD6v5dweLLvrXhXO7KicfwiAfXcpTEIDNNSLxyKv29v6QS2_q3WrILxlQfA-eakinZW_Uiszbx0z0EyLhuvbSpdsqEggkSguKf4TZtLVqQ85rIYFYwnP7TVCKDrUPBYASNAUczUnoVM",
+        "8": "BG_AD6v5dwihsth9nicE-i1nwduQW677ddatqDnD9aZj9O-d1Y4oRQFTDpNl15gJbH5VhgczyUwfvw5_mq0WQtXtfsEhr5DJt9JUAsn-8Joky0vAj_yq_sSl9ICvvvCBW9LMAh49QTCC7w",
+        "9": "BG_AD6v5dyTxowlb6oxk2WxDleGSnrJ1lSI5kZpy5us5fiLpriaxzzNx30p9ai1aRrKCmeCtHDKK6G8Nk5ZwvrA2bc6I5ElIjdYKqC5TnlVqkdNStRcgwluzFFTh0n8c1yuFnDV5_beLw",
+        "10": "BG_AD6v5dw1-Cxr_DuBtpTGEeN8GqrjoPEOi5snfAz4jB_DMwlpi3I4ScHh1fOM-OYvpr4_hID9-71DO1XteKQBsLH_oKFlKQKSmvozKO2K_6Gg9TzXmisrmpsIPi5yuBoAO90RjjPryhQ",
+        "11": "BG_AD6v5dzV7NROVdcvsVNLKWabWako1BS1a0nPbi5UTaCWiom7-E0YIdX4tmCWYclRvoofxNDfHgMMdJifqk1-BX1bSSx2WV6fygR1OSTcT6_PmRQcSD9hs1Gz3ntEWsp83rZgCw7p2GQ",
+        "12": "BG_AD6v5dxAGWtns5GOegHVlWyqFHQDqECs9Jj4cu8BevF-hpTewrMCZqbCvutD8XnDJk6cLReVHwbic0nqw57lFZ-pWiuO4mN9qC7i_lePlrHeDIJEgvv9TRo9eKUgg2_9HULG0eD3HGg"
       },
       "download": {
         "sl": [
           "https://drive.google.com/file/d/1BD24BGhVm4zAPV0d2bV5rbLxUhaHScNu/view",
-"https://drive.google.com/file/d/1aB49ZmeJFwiFIzj0A16kX54a1yyPcxUe/view",
-"https://drive.google.com/file/d/1jf-c6jvjNv3zPEs_U1AYyY_EoX05SPuM/view",
-"https://drive.google.com/file/d/1wukyBd98k_KiJsc_rUCk6y2PUfSGrd_y/view",
-"https://drive.google.com/file/d/1FcSoNYw8BTLmlc6FfktSHJvRmlN8iQor/view",
-"https://drive.google.com/file/d/1YP4mVY1nT-XsfIjTntdnUAlQyO2J5ZKW/view",
-"https://drive.google.com/file/d/1jG-N5Grid4jGHZ6VevaUGqe3UNU5mRxP/view",
-"https://drive.google.com/file/d/1_b6Vypqf07AmfZ3vxeza484cNu7N1Bt2/view",
-"https://drive.google.com/file/d/1Ul91vae9535YE2RGR5KvqVpMk4DlEy6-/view",
-"https://drive.google.com/file/d/1AgdhMep9INh894KtxZk5_EgXwH1xIb5A/view",
-"https://drive.google.com/file/d/1_VOlJWlvtopI-OdDGGBE7bsjG4_ZBJnU/view",
-"https://drive.google.com/file/d/1x1pmi4Mzzur0Xfw1voyK2heEyyiSp7PC/view"
+          "https://drive.google.com/file/d/1aB49ZmeJFwiFIzj0A16kX54a1yyPcxUe/view",
+          "https://drive.google.com/file/d/1jf-c6jvjNv3zPEs_U1AYyY_EoX05SPuM/view",
+          "https://drive.google.com/file/d/1wukyBd98k_KiJsc_rUCk6y2PUfSGrd_y/view",
+          "https://drive.google.com/file/d/1FcSoNYw8BTLmlc6FfktSHJvRmlN8iQor/view",
+          "https://drive.google.com/file/d/1YP4mVY1nT-XsfIjTntdnUAlQyO2J5ZKW/view",
+          "https://drive.google.com/file/d/1jG-N5Grid4jGHZ6VevaUGqe3UNU5mRxP/view",
+          "https://drive.google.com/file/d/1_b6Vypqf07AmfZ3vxeza484cNu7N1Bt2/view",
+          "https://drive.google.com/file/d/1Ul91vae9535YE2RGR5KvqVpMk4DlEy6-/view",
+          "https://drive.google.com/file/d/1AgdhMep9INh894KtxZk5_EgXwH1xIb5A/view",
+          "https://drive.google.com/file/d/1_VOlJWlvtopI-OdDGGBE7bsjG4_ZBJnU/view",
+          "https://drive.google.com/file/d/1x1pmi4Mzzur0Xfw1voyK2heEyyiSp7PC/view"
         ]
       }
     },
