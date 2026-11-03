@@ -4070,7 +4070,7 @@
     },
     {
       "judul": "martial master",
-      "updatedAt": "2026-11-01T10:06",
+      "updatedAt": "2026-11-03T10:54",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4147,6 +4147,16 @@
           {
             "nama": "Sub English",
             "id": "DT_MxKhQpUbq6CiR2d65J2vKe"
+          }
+        ],
+        "706": [
+          {
+            "nama": "subtitle Indonesia 1080P",
+            "id": "DT_S2Hw9L1cJJNQ1ugvfZmkd5"
+          },
+          {
+            "nama": "subtitle English",
+            "id": "DT_98stYqJCkwkYQoAy2HpHQq"
           }
         ]
       },
@@ -4565,7 +4575,7 @@
     },
     {
       "judul": "100.000 Years of Refening qi",
-      "updatedAt": "2026-10-31T11:20",
+      "updatedAt": "2026-11-03T10:48",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4636,6 +4646,16 @@
           {
             "nama": "Sub English",
             "id": "DT_LbpaoHfJtVJw39g4uYa7MG"
+          }
+        ],
+        "391": [
+          {
+            "nama": "Subtitle Indonesia 1080P",
+            "id": "DT_92cdeMG9xWiwSX1a99ju7E"
+          },
+          {
+            "nama": "Subtitle English 1080p",
+            "id": "DT_48mEeABkeEEN47swp6UnJh"
           }
         ]
       },
@@ -11986,7 +12006,7 @@
       "judul": " Mahou Shoujo Ikusei Keikaku: Restart",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-10-27T10:59",
+      "updatedAt": "2026-11-03T08:02",
       "kategori": "anime",
       "genre": [
         "action",
@@ -12014,6 +12034,12 @@
           {
             "nama": "sub Indonesia",
             "id": "RM_v7f9ss8"
+          }
+        ],
+        "5": [
+          {
+            "nama": "Subtitle Indonesia",
+            "id": "VK_y48flea70inu"
           }
         ]
       },
