@@ -906,7 +906,7 @@
       "judul": " The Guardian of Daxia",
       "unlockEpisode": 1,
       "coinPrice": 120,
-      "updatedAt": "2026-10-29T09:58",
+      "updatedAt": "2026-11-04T11:54",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -934,7 +934,17 @@
         "9": "DT_MQtDpqvsSM5DUqvoHE8Pw8",
         "10": "DT_NA9zvMVVQvXR8xembuzotc",
         "11": "DT_72QGwjpMKLaH45HPxqbrfd",
-        "12": "RV_i2r60vxx7zrw"
+        "12": "RV_i2r60vxx7zrw",
+        "13": [
+          {
+            "nama": "Subtitle Indonesia 1080P",
+            "id": "DT_F7m4JjaS6Eh5XfCWHhqjYK"
+          },
+          {
+            "nama": "Subtitle English",
+            "id": "DT_WsE2tUcHw4qRofwVqgj63y"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -959,7 +969,7 @@
     },
     {
       "judul": "Daqian Town ",
-      "updatedAt": "2026-10-30T10:32",
+      "updatedAt": "2026-11-04T11:56",
       "rating": "6.3",
       "kategori": "donghua populer",
       "genre": [
@@ -1004,7 +1014,13 @@
         "26": "RV_tcg66y4f2cev",
         "27": "RV_2mrbibz3nijp",
         "28": "RV_tyekutiuox6w",
-        "29": "RM_v7fev5e"
+        "29": "RM_v7fev5e",
+        "30": [
+          {
+            "nama": "Subtitle Indonesia Yunshan",
+            "id": "RV_sfy6mvte36z8"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -1310,7 +1326,7 @@
     },
     {
       "judul": "The Heavenly Fate Villain ",
-      "updatedAt": "2026-10-28T12:05",
+      "updatedAt": "2026-11-04T13:45",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -1361,7 +1377,9 @@
         "30": "RM_v7ezlqy",
         "31": "RM_v7ezmyk",
         "32": "RM_v7fbmhq",
-        "33": "RM_v7fbmlw"
+        "33": "RM_v7fbmlw",
+        "34": "DM_kWBiIT4F7khjHWMlMqy",
+        "35": "DM_k3NaQuH1C6wqooIrnSC"
       },
       "download": {
         "sl": [
@@ -2051,7 +2069,7 @@
     },
     {
       "judul": "Lord of the Ancient gods Grave",
-      "updatedAt": "2026-10-31T19:23",
+      "updatedAt": "2026-11-04T11:55",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2121,6 +2139,16 @@
           {
             "nama": "Sub English",
             "id": "DT_3ri3SQeJeZ6W3Y8boqT7Si"
+          }
+        ],
+        "497": [
+          {
+            "nama": "Subtitle Indonesia 1080P",
+            "id": "DT_HJuvL1cUoPhZDtzFJdEfQc"
+          },
+          {
+            "nama": "Subtitle English",
+            "id": "DT_JoGeBNLbYYqfeQg4mH9t3D"
           }
         ]
       },
@@ -7700,7 +7728,7 @@
     },
     {
       "judul": "Raised By Demons: Panda Li",
-      "updatedAt": "2026-11-01T11:40",
+      "updatedAt": "2026-11-04T08:32",
       "rating": "9.5",
       "kategori": "anime",
       "genre": [
@@ -7736,6 +7764,16 @@
           {
             "nama": "sub Indonesia",
             "id": "RM_v7fbgug"
+          }
+        ],
+        "17": [
+          {
+            "nama": "Subtitle Indonesia 1080p",
+            "id": "DT_4bTjUKLfGmNKCGDhE6V9Xg"
+          },
+          {
+            "nama": "Subtitle English 1080p",
+            "id": "DT_A5xMiR1Anf99WTqL2jQ7Z9"
           }
         ]
       },
