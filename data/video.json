@@ -1942,7 +1942,7 @@
     },
     {
       "judul": "My Senior Brother Is Too Steady",
-      "updatedAt": "2026-10-28T11:54",
+      "updatedAt": "2026-11-04T20:22",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -1982,7 +1982,17 @@
         "162": "GD_1Yv1eG-dJwOnfX01_MUcox_a9d9eS5GON",
         "163": "DT_UmLzcpAMbKo5BJunfDKbit",
         "164": "DM_xbq1fxa",
-        "165": "RV_dotwvinji0nk"
+        "165": "RV_dotwvinji0nk",
+        "166": [
+          {
+            "nama": "sub Indonesia Yunshan",
+            "id": "DM_xbti5xa"
+          },
+          {
+            "nama": "sub Indonesia Ruby",
+            "id": "RV_tzhnwipagvdm"
+          }
+        ]
       },
       "download": {
         "sl": [
