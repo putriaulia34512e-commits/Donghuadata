@@ -86,37 +86,38 @@
           "#"
         ]
       }
-    },{
-  "judul": "BTTH Movie: Battle of Two Emperors",
-  "updatedAt": "2026-11-05T16:59",
-  "rating": "7.2",
-  "kategori": "donghua populer",
-  "genre": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Martial Arts",
-    "Mythology",
-    "Romance",
-    "Supernatural"
-  ],
-  "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXVEjDJd_apf6cVkwT3qpNfp07MQwNiq1S-JcC5xqcZHbtgAcvSYDIRBr040YfpcvfO3pr7pUa-rUuigFQemLsICE9O5BlkBCLBHx-A8fteqNeqJTFg74Z4FhOsV9mxE2SQCBnG6d3GkiFjSJkV1iE0KBeVd2eaXnT63flWrDvsBliyJc5O0s3XfqRiA/s551/BTTH-Movie-Battle-of-Two-Emperors-Subtitle-Indonesia.webp",
-  "jadwal": "sabtu",
-  "status": "segera",
-  "studio": "Shanghai Motion Magic",
-  "season": "2026",
-  "durasi": "1 Jam 30 Min/Eps",
-  "totalEp": "1",
-  "mulaiDari": 0,
-  "eps": {
-    "1": "#"
-  },
-  "download": {
-    "sl": [
-      "#"
-    ]
-  }
-},
+    },
+    {
+      "judul": "BTTH Movie: Battle of Two Emperors",
+      "updatedAt": "2026-11-05T16:59",
+      "rating": "7.2",
+      "kategori": "donghua populer",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Martial Arts",
+        "Mythology",
+        "Romance",
+        "Supernatural"
+      ],
+      "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXVEjDJd_apf6cVkwT3qpNfp07MQwNiq1S-JcC5xqcZHbtgAcvSYDIRBr040YfpcvfO3pr7pUa-rUuigFQemLsICE9O5BlkBCLBHx-A8fteqNeqJTFg74Z4FhOsV9mxE2SQCBnG6d3GkiFjSJkV1iE0KBeVd2eaXnT63flWrDvsBliyJc5O0s3XfqRiA/s551/BTTH-Movie-Battle-of-Two-Emperors-Subtitle-Indonesia.webp",
+      "jadwal": "sabtu",
+      "status": "segera",
+      "studio": "Shanghai Motion Magic",
+      "season": "2026",
+      "durasi": "1 Jam 30 Min/Eps",
+      "totalEp": "1",
+      "mulaiDari": 0,
+      "eps": {
+        "1": "#"
+      },
+      "download": {
+        "sl": [
+          "#"
+        ]
+      }
+    },
     {
       "judul": " To be winner",
       "unlockEpisode": 2,
@@ -12401,6 +12402,19 @@
         "https://www.mediafire.com/file/r91bvnos24l45dj/Orang+Pakai+Insting,+Aku+pakai+Pemindai+HP+E14+sub+indonesia.ts.mp4/file",
         "https://www.mediafire.com/file/ow4gedcuzp9youi/Orang+Pakai+Insting,+Aku+pakai+Pemindai+HP+E15+sub+indonesia.ts.mp4/file"
       ]
+    },
+    {
+      "judul": "BTTH Movie: Battle of Two Emperors PV",
+      "updatedAt": "2026-11-05T10:00",
+      "kategori": "Shorts",
+      "poster": "#",
+      "mulaiDari": 1,
+      "eps": {
+        "1": "BG_AD6v5dyvqDc6xI9mmrrSXmjf4YJsaLUqMS1f7YBd8p6X9OETcfy9jgibKExd200o6v1obgoskGOMkYpkn4fS1n9AWd-eliivRmTs0lOCGk_Pv-Sth-ZSGNBM50VJ6c8XH-QKWjqEHTw"
+      },
+      "download": {
+        "sl": []
+      }
     }
   ],
   "images": [
