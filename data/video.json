@@ -912,7 +912,7 @@
       "judul": " The Guardian of Daxia",
       "unlockEpisode": 1,
       "coinPrice": 120,
-      "updatedAt": "2026-11-04T11:54",
+      "updatedAt": "2026-11-05T10:45",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -950,7 +950,8 @@
             "nama": "Subtitle English",
             "id": "DT_WsE2tUcHw4qRofwVqgj63y"
           }
-        ]
+        ],
+        "14": "DT_MfvCwkz6xtjy3yMSCjgmVz"
       },
       "download": {
         "sl": [
@@ -1219,7 +1220,7 @@
     },
     {
       "judul": "Oriental Martial Academy",
-      "updatedAt": "2026-10-29T10:54",
+      "updatedAt": "2026-11-05T10:47",
       "kategori": "donghua populer",
       "genre": [
         "Action",
@@ -1251,7 +1252,17 @@
         "13": "DT_2dHfTRCxkbAgPNA8SmWB2T",
         "14": "DT_9peHa7TeNpaokFJtpkxpi5",
         "15": "DT_4UxWNRyXWjXpf24Ym5E6am",
-        "16": "DT_HqDyBauxkkL2rJms5hh1J7"
+        "16": "DT_HqDyBauxkkL2rJms5hh1J7",
+        "17": [
+          {
+            "nama": "SUB Indo",
+            "id": "DT_3nZNadqNziWHEszZioskZX"
+          },
+          {
+            "nama": "SUB English",
+            "id": "DT_UsUpAARB3ff71U45iKvA8S"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -3219,7 +3230,7 @@
     },
     {
       "judul": "Against The Gods",
-      "updatedAt": "2026-10-29T09:54",
+      "updatedAt": "2026-11-05T10:45",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3260,7 +3271,8 @@
         "58": "DT_CP1zVWqVa6HFf8v8tCJq2V",
         "59": "DT_KGMYxKidCnVKb2suXGU8s9",
         "60": "DT_9KJsnBvG8LMaBn2wtx3pHr",
-        "61": "DT_PAEFeLFKhJ7iRsDCypAp5j"
+        "61": "DT_PAEFeLFKhJ7iRsDCypAp5j",
+        "62": "DT_NzrPcQjATJpUK2ykFwyWLd"
       },
       "download": {
         "sl": [
@@ -11074,7 +11086,7 @@
       "judul": " Tantei wa Mou, Shindeiru. Season 2",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-01T08:12",
+      "updatedAt": "2026-11-05T10:45",
       "kategori": "anime",
       "genre": [
         "comedy",
@@ -11095,7 +11107,17 @@
         "1": "BG_AD6v5dzCIHKtewhfwXwygpf4xl-lhmGzKQJ2c-apOlnua6qFdUVjVHtNIhxIhMqXqg9UlvDZ-7tBQV1pZ--h1d5SZ1lgxvt67HO8oHqgMtL4ALghyEFVUSAbdUABX1tDvO6ZmiB6ICAN",
         "2": "BG_AD6v5dzgYs_cg_7abH-uBzEvEPMPf8jdwvmQ37-LkPo-fGOSbBkpGuJ2D9RwoDCrDyU0PiP1pqmGeoha1aIMEN2jlghRtU-i4i2-IVAz40DSIB8gR_A7Iz3puIdOJZqpQS0TYsyVWbt2",
         "3": "BG_AD6v5dwnU-QAnq9vmPWX4F-_KaLJ8d8AmDfBh-zegIVkeSZIQSgVqD7pGvNxKYIKv2_uOgBsrFpVWeivISJ8vB564lnD7Idzt-v_Ft79Ij9PWoh6-7jgrpooJ_QLVLMEZJCoWsB7-Z4",
-        "4": "BG_AD6v5dys7XK5VVtPfR06JJS-tO8kHHjio1pbXRuCuYa9D0UCXUM2dSSwFE8Uib5TDKx0k-H1cwX7SkMvvcDfI3br10CAoUV35YDlqU5zsjxA7MB2rEEjuFBqw_9-OFwwit_q0BRDwbc"
+        "4": "BG_AD6v5dys7XK5VVtPfR06JJS-tO8kHHjio1pbXRuCuYa9D0UCXUM2dSSwFE8Uib5TDKx0k-H1cwX7SkMvvcDfI3br10CAoUV35YDlqU5zsjxA7MB2rEEjuFBqw_9-OFwwit_q0BRDwbc",
+        "5": [
+          {
+            "nama": "SUB Indonesia",
+            "id": "BG_AD6v5dx1Nc-ZIBIi-9m5LKu6Yu87RvduRAFmJhpYLgdIyJAxJnzNLVbCwz65ZcAUQZ2pn1rkYhlMaNV0ycqsDFKKscTYTtnWoBCkoxUiW0unurFMD3XaFFl3AQBFpkdyLji7q05IH8M"
+          },
+          {
+            "nama": "SUB English",
+            "id": "BG_AD6v5dzY3etETzHdZBWHPy4qEnVVaG71YmYQPOg3pmSay_RMCqvXcSPB9D-5jD5v2UH8YAwhuDxQXoPSPBjqrSBfcNvT26eQdXYRcEOs7dGCEwcKPAwBquYWFwPotxyPkV7JLTI79cs"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -11144,7 +11166,15 @@
         "2": "BG_AD6v5dyW1grAE3i1iclkvNxZNWR19x_80RvGaRqWtw0qkeNzU-5GRJvRp_PGPXg69ARFM5Qy4Ch0xW6Dq_wd-S9rS7ZgLc8l8lB1dL9ZGjW2U9KqQqVaDzhGX6MQMgGWxG-me0v29A",
         "3": "BG_AD6v5dw8vLThhJRb_TOU1WIFaDdrOOp1DeymNeDIDTMo-cIhemeNAUJbQFHfDu-cWEGAFOr5fSEb8LzdMKyyILDyb7su6hp89M96U_EOOvlMO2_CKjlavLmXE1p7_mJWmELzv0dRp8o",
         "4": "BG_AD6v5dw7qJAO91HoMJuh39vqpYNeWdTSLKP21cE4p2xkX7AkzT4CXKVFToIwncA8d7bC8ofik-HGDnbl3LLpJqY4fOUYpzofcXlVk7sZxdIW8r4YEWbqnZXgs8hy7npI0Bwl12NP87fw",
-        "5": "VK_zi8e02zpnhr7"
+        "5": [
+          {
+            "id": "VK_zi8e02zpnhr7"
+          },
+          {
+            "nama": "SUB indo",
+            "id": "BG_AD6v5dy7AzufXR7StIkZr-i9nmki79qqPfFqUMcW2A8MTfs-EZPdaLdURsX33A8B-TJ8Eoo2Urjhsia41_Y7gf8t6PFh3lgJvZvk2wR-NLKUJAKbiYHdZTnIJQusKTqwUcC9uqfRhA"
+          }
+        ]
       },
       "download": {
         "sl": [
