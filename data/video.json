@@ -586,7 +586,7 @@
     },
     {
       "judul": "Jade Dynasty Season 4 Final Season",
-      "updatedAt": "2026-10-30T00:15",
+      "updatedAt": "2026-11-05T19:22",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -616,7 +616,17 @@
         "10": "DT_6nMxqhK1FxBM2K2g7GkHt3",
         "11": "DT_4DnoYpummA8fH8REVg9JgB",
         "12": "DT_GuRwHShxqMM24kuqJXeqgh",
-        "13": "DT_7ZtFZaCq8qvZvMKDGQw34u"
+        "13": "DT_7ZtFZaCq8qvZvMKDGQw34u",
+        "14": [
+          {
+            "nama": "SUB Indo",
+            "id": "DT_NuMJXkUWQ9ZDhLXsSSrzEv"
+          },
+          {
+            "nama": "SUB English",
+            "id": "DT_KKyBHd1TnnMm3VFHWkb9tU"
+          }
+        ]
       },
       "download": {
         "sl": [
