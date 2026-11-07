@@ -2773,7 +2773,7 @@
     },
     {
       "judul": "The Supreme Dantian",
-      "updatedAt": "2026-10-31T10:09",
+      "updatedAt": "2026-11-07T11:29",
       "kategori": "donghua populer",
       "genre": [
         "Action",
@@ -2825,7 +2825,17 @@
         "33": "DT_C9eoiAxcZog7crwmRviUoV",
         "34": "DT_TQ8ajUd1hmAWdMoBJfqjjX",
         "35": "DM_k5l8lq9cpInXcKMa4Iy",
-        "36": "RV_2r8zc8zresm6"
+        "36": "RV_2r8zc8zresm6",
+        "37": [
+          {
+            "nama": "SUB INDO",
+            "id": "RV_hg5hngk0mr0v"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_725ouNj8AAqRhc6TAzceYb"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -2909,7 +2919,7 @@
     },
     {
       "judul": "A Record of A Mortal s Journey to Immortality",
-      "updatedAt": "2026-10-31T11:19",
+      "updatedAt": "2026-11-07T11:35",
       "rating": "7.7",
       "kategori": "donghua populer",
       "genre": [
@@ -2949,7 +2959,8 @@
         "195": "DT_LKRm3tJiX16piuwrYDGRJb",
         "196": "RM_v7esv1g",
         "197": "DM_xbqvmpa",
-        "198": "DM_k11Wgf198PRfYRMf2LU"
+        "198": "DM_k11Wgf198PRfYRMf2LU",
+        "199": "DM_xbugp1m"
       },
       "download": {
         "sl": [
@@ -3641,7 +3652,7 @@
     },
     {
       "judul": "Beyond Time's gaze",
-      "updatedAt": "2026-10-31T10:03",
+      "updatedAt": "2026-11-07T11:25",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3685,7 +3696,17 @@
         "43": "DT_WXvUFM9EdXUsBKKHTJrnH3",
         "44": "DT_AfTy7PFoCkk1VucoHY1dh",
         "45": "DT_YVPnLK4NxqjCjVyZYVpTJp",
-        "46": "RV_pzv1rrzojeqy"
+        "46": "RV_pzv1rrzojeqy",
+        "47": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_2iXuV4EPS117ihxwq4uFRy"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_FyRzPSPJBXokJac1dY4Haz"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -7978,7 +7999,7 @@
       "judul": " Spare Me, Great Lord! Season 3",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-10-31T11:24",
+      "updatedAt": "2026-11-07T11:31",
       "kategori": "anime",
       "genre": [
         "action",
@@ -8003,7 +8024,17 @@
         "4": "DT_5FHpNcdKjDdERAi2zbLyxt",
         "5": "DT_AnLmTsW9zHLLrgw2Js8GgL",
         "6": "DT_48bt9G1UFLXjbdxtisJhRC",
-        "7": "DM_k5nrLRGJUDwlGuMf3z0"
+        "7": "DM_k5nrLRGJUDwlGuMf3z0",
+        "8": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_XDUrhLqFKWCCAux7tq1HC1"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DM_k79F3Lpu6AHeSEMtxL8"
+          }
+        ]
       },
       "download": {
         "sl": [
