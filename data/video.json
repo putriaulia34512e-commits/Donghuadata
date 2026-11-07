@@ -3,7 +3,7 @@
   "videos": [
     {
       "judul": "BATTLE THEGROUND THE HEAVEN S5",
-      "updatedAt": "2026-10-31T19:55",
+      "updatedAt": "2026-11-07T19:29",
       "rating": "9.5",
       "kategori": "donghua populer",
       "genre": [
@@ -59,6 +59,16 @@
           {
             "nama": "Multi sub",
             "id": "RM_v7fh524"
+          }
+        ],
+        "218": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_NngucMFqosnNYdTaLPMpTg"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_PdzJW3LRRFpbgar1pTXumw"
           }
         ]
       },
