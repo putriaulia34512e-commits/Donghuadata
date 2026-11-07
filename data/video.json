@@ -11013,7 +11013,7 @@
       "judul": " Tokyo Revengers: Santen Sensou-hen",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-10-31T11:45",
+      "updatedAt": "2026-11-07T06:57",
       "kategori": "anime",
       "genre": [
         "action",
@@ -11034,7 +11034,17 @@
         "2": "BG_AD6v5dxy5nFaUQ0APTUi-Zis2kAoAEEpp5XVR_wyDzyKZwPi19efggxpwZFDANPYpmuvRQt8EnjopPdH30Q0my6DtTElLEg9GFyis2VHkEHntetjZwILAntqoMHOJfIPalHzfUMzahRx",
         "3": "BG_AD6v5dybRlbAGPa_Nvgms7qnLntCQd5vAZC5JToM1B820Wc1HhjDrTI4-Fwaup3jjV_3q0sMzj8eqb0iYdquj2ucO3df10xdmiLPuZP3ywFW-7ak5CyhjSEPSuBkqKN8dDzy5NiD2S0Z",
         "4": "BG_AD6v5dybRlbAGPa_Nvgms7qnLntCQd5vAZC5JToM1B820Wc1HhjDrTI4-Fwaup3jjV_3q0sMzj8eqb0iYdquj2ucO3df10xdmiLPuZP3ywFW-7ak5CyhjSEPSuBkqKN8dDzy5NiD2S0Z",
-        "5": "BG_AD6v5dwlRgYFpyvPfoWdN5PfPs8f0v75F-Vbh5k1y7-tlhmFnXisnJ10mW9oK-ImwX48BO5DW1CrOuHs6koYT7MwLqtVaY_tb_h8Pjw5pwvgpudTmSy19_aepECEnOBwgfyhLlq0JHsS"
+        "5": "BG_AD6v5dwlRgYFpyvPfoWdN5PfPs8f0v75F-Vbh5k1y7-tlhmFnXisnJ10mW9oK-ImwX48BO5DW1CrOuHs6koYT7MwLqtVaY_tb_h8Pjw5pwvgpudTmSy19_aepECEnOBwgfyhLlq0JHsS",
+        "6": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_LaZfWzdtgYViPEDSAnMW2L"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_YFJP5VmBJXjfGjvuVq68oH"
+          }
+        ]
       },
       "download": {
         "sl": [
