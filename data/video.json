@@ -772,7 +772,7 @@
     },
     {
       "judul": "The God of Wealth Dou Zhanlong",
-      "updatedAt": "2026-11-01T09:03",
+      "updatedAt": "2026-11-08T12:31",
       "rating": "8.4",
       "kategori": "donghua populer",
       "genre": [
@@ -811,6 +811,16 @@
           {
             "nama": "Sub Indonesia",
             "id": "DT_TiDc7FnEt7Yif79m1GfdAd"
+          }
+        ],
+        "15": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_AXZCU7xgrLuaWHuKNfmX4i"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_9aYM2nHpfXCfMaZpY1VxRe"
           }
         ]
       },
@@ -3840,7 +3850,7 @@
     },
     {
       "judul": "Urban Ancient Immortal Doctor",
-      "updatedAt": "2026-11-01T11:25",
+      "updatedAt": "2026-11-08T12:29",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3917,6 +3927,16 @@
           {
             "nama": "Sub Indonesia 1080P",
             "id": "RM_v7fih48"
+          }
+        ],
+        "226": [
+          {
+            "nama": "SUB INDO",
+            "id": "DM_k2CI8GXKmjAnOhMvIoS"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_Jf4jBdFPTF9YNXYbZHt7XB"
           }
         ]
       },
@@ -4202,7 +4222,7 @@
     },
     {
       "judul": "TALES OF HARDING GODS",
-      "updatedAt": "2026-11-01T11:42",
+      "updatedAt": "2026-11-08T12:29",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4254,7 +4274,8 @@
             "nama": "Sub English",
             "id": "DT_NS47oyK1ymF8MLAhLsBqdN"
           }
-        ]
+        ],
+        "108": "DM_k4Q2FE4Qblh4n3MvFpU"
       },
       "download": {
         "sl": [
@@ -8924,7 +8945,7 @@
     },
     {
       "judul": " Magical★Explorer",
-      "updatedAt": "2026-11-01T12:01",
+      "updatedAt": "2026-11-08T12:29",
       "kategori": "anime",
       "genre": [
         "ecchi",
@@ -8946,7 +8967,17 @@
         "3": "BG_AD6v5dzWe8_NeJNPj0qXnvXCQoAHLWZrlY-5fUdiyMWNzaW_5dI-e9irFDqpr7JhZjLMT878UyLwR0hJlc_JfDuGfi4uFBg4CxsIQVmklkoVODaWOjNw-lwis8Xi-yzqofkWVpo8wos&",
         "4": "BG_AD6v5dy2ADx8eWU5ZLvD6UbcfujIX3XnA287T3hUQQQDb58QAd55oPI7LNFVRxGmHULMQ0QQ4u67dUF2DfhsY8f28dQUsnOOIGrTMoUTtq4Q4oa7AmgBPqd0b5_usEfqrTlNdEiDDSPd",
         "5": "BG_AD6v5dzUXjOfOUWk5Jgir1sVFCHv9bz9ZDiCAe-KaK5rFt0RMjmBlR_RVCN3IGtbA7syRh9vwWYY_WAkjDhYt0549D6XgDgv_DAGb181hI7ux_nr2bE-HnaTv6Mb31ig4uv3IJDZoRQ",
-        "6": "BG_AD6v5dzHeT_e_QTLFqQ3FqxEpWGbcWcTuasYFX3VRZrC8PZiElRy9aCb1Z_c2aKQIHwe_WD8A_SStJaEcId0p8yK17fsYotXsGBjqKjLwmpUm1q8-Jk3Vx1oRV9yJQqCvlrnjyuPdyGT"
+        "6": "BG_AD6v5dzHeT_e_QTLFqQ3FqxEpWGbcWcTuasYFX3VRZrC8PZiElRy9aCb1Z_c2aKQIHwe_WD8A_SStJaEcId0p8yK17fsYotXsGBjqKjLwmpUm1q8-Jk3Vx1oRV9yJQqCvlrnjyuPdyGT",
+        "7": [
+          {
+            "nama": "SUB INDO",
+            "id": "BG_AD6v5dxWYLUQyqCN_eZL9CoJ0mcsJt4ZJ-l-nvx8JiJ7NtkBOv7Tp_ni_NZHlF3_2JWqcqeAQncekxUt0DDcplVC-UgLAiCIOS1THgrDS5R84pNLUlRnPRlk2sUFPP50y8kzPioPqPc"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "OD_@ChineseDuniaQi:5/Magical★Explorer-Eng-sub-07-1080p:f"
+          }
+        ]
       },
       "download": {
         "sl": [
