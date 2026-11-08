@@ -1755,7 +1755,7 @@
     },
     {
       "judul": "Primeval Overlord ",
-      "updatedAt": "2026-11-05T16:16",
+      "updatedAt": "2026-11-08T12:29",
       "rating": "6.3",
       "kategori": "donghua populer",
       "genre": [
@@ -1829,6 +1829,16 @@
           {
             "nama": "SUB English",
             "id": "DT_2PE75Pwcy5A7BKGYRYPLyD"
+          }
+        ],
+        "33": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_3UchTcg82xfeoA99jtHbCd"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_2WkoDurPZCRHFfA7xcmJ6y"
           }
         ]
       },
