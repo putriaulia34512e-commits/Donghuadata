@@ -1975,7 +1975,7 @@
     },
     {
       "judul": "under the gate",
-      "updatedAt": "2026-11-02T09:06",
+      "updatedAt": "2026-11-09T08:39",
       "kategori": "anime",
       "genre": [
         "action",
@@ -2022,7 +2022,8 @@
             "nama": "Sub English",
             "id": "DT_8rrTBtWTaBhKwmNYmZoYHH"
           }
-        ]
+        ],
+        "23": "DM_k7IchEgQpisrEKMxrOS"
       },
       "download": {
         "sl": [
@@ -4328,7 +4329,7 @@
     },
     {
       "judul": "martial master",
-      "updatedAt": "2026-11-03T10:54",
+      "updatedAt": "2026-11-09T08:38",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4415,6 +4416,16 @@
           {
             "nama": "subtitle English",
             "id": "DT_98stYqJCkwkYQoAy2HpHQq"
+          }
+        ],
+        "707": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_9497YJGU1GMyQAD8zqKXsr"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_PsoXvYBjwmxoZ6gM7iW57Y"
           }
         ]
       },
@@ -12333,7 +12344,7 @@
       "judul": " Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-02T08:25",
+      "updatedAt": "2026-11-09T08:40",
       "kategori": "anime",
       "genre": [
         "action",
@@ -12356,7 +12367,8 @@
         "3": "BG_AD6v5dyjdbdVab9G6YDkaJttqai8ZL6Gp4sGC9OMim5e_0EXSNFfxLshORRO8vYzia76MU6BwZ_-5cbuhaCqVx_R2slO_OjWaeiDcalTUTPYkQ3BXz1Sg2HZWHjHhrzuknL8z61PuWOd",
         "4": "BG_AD6v5dyQEmkL_qDPPODgSywVYsSjjABQfFlzSWEkSqVD9cyysAtLFOvrvvADf3t6SR3-L6b5sB7MRAjHW-KHLSV6rTkvoZM8DR9rDK09x4auxOySkA_UbdQFLoMFZQy9oWqdZDkrGUJs",
         "5": "BG_AD6v5dyQEmkL_qDPPODgSywVYsSjjABQfFlzSWEkSqVD9cyysAtLFOvrvvADf3t6SR3-L6b5sB7MRAjHW-KHLSV6rTkvoZM8DR9rDK09x4auxOySkA_UbdQFLoMFZQy9oWqdZDkrGUJs",
-        "6": "BG_AD6v5dx2tNcZCd9uPuaQKfAxnV1bFzrfbO5nHJlFDRtQqzHSWLIOYCMIE6ChhfgHJYvl4tdHAReQ4EN61y3_iTx01ladhMqS9Z4298NQklExPb4OcIaBtz-eVTutlW8cWj0pTE__BxpY"
+        "6": "BG_AD6v5dx2tNcZCd9uPuaQKfAxnV1bFzrfbO5nHJlFDRtQqzHSWLIOYCMIE6ChhfgHJYvl4tdHAReQ4EN61y3_iTx01ladhMqS9Z4298NQklExPb4OcIaBtz-eVTutlW8cWj0pTE__BxpY",
+        "7": "BG_AD6v5dysRl10BcwshD1GPpUjqIhnnzPANuWpjMfxHakXKNdyhY6wNu752PyanTuwzEtFSyiK2iVCmFgh5vEc_qSfCtwxXfwS9HlTDlNibzKAKTFHe_D01vk1c68eex7RcNcjbDsFEc8"
       },
       "download": {
         "sl": [
@@ -12383,7 +12395,7 @@
       "judul": " Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta ",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-02T08:25",
+      "updatedAt": "2026-11-09T08:48",
       "kategori": "anime",
       "genre": [
         "Romance",
@@ -12406,7 +12418,8 @@
         "2": "BG_AD6v5dxPY7FfsoZK_FmhG8eBfPTyZTfK4BlrGi7KYa8o9ciTrCWVWevLfRmmICNBbda3GSAr3QsHZwOijsVwmjC4nVNhkOBqcN9OfHKF68CiINCegVMUuI26u-O7cSFh1zGNaJqVxbBh",
         "3": "BG_AD6v5dxhdB_ttzbVo_-6kbEoiDuBL34fCic6iJfrvlhbRZMTBUDAzGYh313EKECv8e83AoMa939YSWR9DroQXUx0n9rFMI8mQTocDsiQpNdcFagFIaApkZZpsHF2OMiIgbceiriH0iow",
         "4": "BG_AD6v5dxhdB_ttzbVo_-6kbEoiDuBL34fCic6iJfrvlhbRZMTBUDAzGYh313EKECv8e83AoMa939YSWR9DroQXUx0n9rFMI8mQTocDsiQpNdcFagFIaApkZZpsHF2OMiIgbceiriH0iow",
-        "5": "BG_AD6v5dyxDK6FZB-maZSW0GLaUr8Y9v6b3ZrSjAwzQgWv0SiFRIWVSDjwT5cyktneY0th0OOkRuEyrutF62--4b-u7NMn-JK_Cs2A48MQGrFd5GZ2xN6QVtF9nVB-8vDr2qmolaSL8PM"
+        "5": "BG_AD6v5dyxDK6FZB-maZSW0GLaUr8Y9v6b3ZrSjAwzQgWv0SiFRIWVSDjwT5cyktneY0th0OOkRuEyrutF62--4b-u7NMn-JK_Cs2A48MQGrFd5GZ2xN6QVtF9nVB-8vDr2qmolaSL8PM",
+        "6": "BG_AD6v5dyEiYR6HsSjyawIw7ivKfLeBpkR-qj9kpxC1bPK5Den9G1KJ0ok41IIk7C2OWiAbuOiu8Umg3eYU0mWUNOkOMa-o_4jlPm0BAPoOu2nfLgyVrDfcQg_xt81ATK404RSYxOeHeBv"
       },
       "download": {
         "sl": [
@@ -12433,7 +12446,7 @@
       "judul": " Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-02T08:25",
+      "updatedAt": "2026-11-09T08:56",
       "kategori": "anime",
       "genre": [
         "action",
@@ -12454,7 +12467,8 @@
         "2": "BG_AD6v5dxmJ-F9pfhg8Pe5bk72EJTZN_PSzbAzvII2YNK1SXYLrGfOxY8A_5QyYMgXaB9XrDsmIevPTxoSXejj4psUMqY-RTefzrPD2xOh2RUWPhY-EtgCT3NsY8bjbciebr-KF0c11KE",
         "3": "BG_AD6v5dyAgar_SvaKXYgYhcHkLgtUIyb1HBH6rnMplQSHcTAkphMf1AHFXqETPPkXrLoCsbrHf_qIOf22OHvAW-tAUyFgNo-zm9WgnQxEumUfQ5t8ODotMaVtGCx75BjJFYfREbcb7uk",
         "4": "BG_AD6v5dyAgar_SvaKXYgYhcHkLgtUIyb1HBH6rnMplQSHcTAkphMf1AHFXqETPPkXrLoCsbrHf_qIOf22OHvAW-tAUyFgNo-zm9WgnQxEumUfQ5t8ODotMaVtGCx75BjJFYfREbcb7uk",
-        "5": "BG_AD6v5dyy2bhbEjg6-uBxUvk6BqxAVjM8hU69Anq2f9TwjhwyPCJ4VyDG2XvTgbLDAfTgaRpn5Y3aS8AXvInALbNjaL39NHBGV1bPjpL3hlvW9pCKXT48ny91yN8ZD8KGok-7D8t64iop"
+        "5": "BG_AD6v5dyy2bhbEjg6-uBxUvk6BqxAVjM8hU69Anq2f9TwjhwyPCJ4VyDG2XvTgbLDAfTgaRpn5Y3aS8AXvInALbNjaL39NHBGV1bPjpL3hlvW9pCKXT48ny91yN8ZD8KGok-7D8t64iop",
+        "6": "BG_AD6v5dyZ4tW3YoNpdcJTgA2Gvgh9EXjmN76_ZcglByTPhc9mY6vpcD_Cu_a3VjSiTQWF6qFsmgtfKaPr8PcTqth2LPNtm5vx4afNk7bvogSpYgyCMEoX1z4wF9aObOE7JCr9BLSugs8"
       },
       "download": {
         "sl": [
