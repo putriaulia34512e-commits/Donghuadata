@@ -4024,7 +4024,7 @@
     },
     {
       "judul": "swallowed star",
-      "updatedAt": "2026-11-09T23:59",
+      "updatedAt": "2026-11-10T09:27",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4081,7 +4081,8 @@
             "nama": "Backup Dailymotion Sub INDO 1080p",
             "id": "DM_k3BNn8QbqVz69aMinVQ"
           }
-        ]
+        ],
+        "249": "DT_UEpRXU1uq8z2B1UCkScUVs"
       },
       "download": {
         "sl": [
@@ -4110,14 +4111,11 @@
           "#",
           "#"
         ]
-      },
-      "video": [
-        "DT_UEpRXU1uq8z2B1UCkScUVs"
-      ]
+      }
     },
     {
       "judul": "againt the sky supreme",
-      "updatedAt": "2026-11-06T12:34",
+      "updatedAt": "2026-11-10T09:22",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4202,6 +4200,16 @@
           {
             "nama": "SUB ENGLISH 1080P",
             "id": "DT_NA2GnJ8uCevMVpQpzHLmfR"
+          }
+        ],
+        "565": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_VUrjLJJ6K5ZHQn824Vgtww"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_Uevm6xh3d94Xdu2129nvKb"
           }
         ]
       },
@@ -4734,7 +4742,7 @@
     },
     {
       "judul": "supreme GODS EMPEROR",
-      "updatedAt": "2026-11-06T12:23",
+      "updatedAt": "2026-11-10T09:22",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4817,6 +4825,16 @@
           {
             "nama": "SUB ENGLISH 1080P",
             "id": "DT_SJPWadvR7DpEktH1mrhXdX"
+          }
+        ],
+        "656": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_7xVo4TRmoeFYGwDwcQgmS1"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_Vhgk9w8dXFFG6cDodBzXLp"
           }
         ]
       },
@@ -5214,7 +5232,7 @@
     },
     {
       "judul": "Lingwu continent",
-      "updatedAt": "2026-11-09T23:59",
+      "updatedAt": "2026-01-10T09:26",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -5287,7 +5305,8 @@
             "id": "DT_7WbMVaSooGjLUBTWdjxAYz"
           }
         ],
-        "230": "DT_6dvgNYmhoJ8XCotSSFtHR3"
+        "230": "DT_6dvgNYmhoJ8XCotSSFtHR3",
+        "231": "DM_k5a3VhfGQMIqd0MxEIK"
       },
       "download": {
         "sl": [
@@ -5335,10 +5354,7 @@
           "#",
           "#"
         ]
-      },
-      "video": [
-        "DM_k5a3VhfGQMIqd0MxEIK"
-      ]
+      }
     },
     {
       "judul": "stellar Transformation Season 7",
