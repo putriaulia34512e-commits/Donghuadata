@@ -849,7 +849,7 @@
     },
     {
       "judul": " God of Eternity",
-      "updatedAt": "2026-11-03T10:56",
+      "updatedAt": "2026-11-10T18:39",
       "rating": "5.6",
       "kategori": "donghua populer",
       "genre": [
@@ -916,7 +916,9 @@
             "nama": "Server 2 Sub Indonesia 1080p",
             "id": "RV_w0cu17hy6nhp"
           }
-        ]
+        ],
+        "34": "DM_k1bRHQQSFkmHIvMzGH8",
+        "35": "DM_k4wmXWEjHe6slSMzGZE"
       },
       "download": {
         "sl": [
@@ -2200,7 +2202,7 @@
     },
     {
       "judul": "Lord of the Ancient gods Grave",
-      "updatedAt": "2026-11-07T13:23",
+      "updatedAt": "2026-11-10T14:35",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2290,6 +2292,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_UqvReNDeTKpjbTTB53qkue"
+          }
+        ],
+        "499": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_Ktk8qBTyZKF9ZZ3mrWQxaY"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_Dose4Tome7efnpS2TFqRJa"
           }
         ]
       },
@@ -2580,7 +2592,7 @@
     },
     {
       "judul": "Shrouding the heavens",
-      "updatedAt": "2026-11-03T19:40",
+      "updatedAt": "2026-11-10T18:33",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2636,7 +2648,8 @@
             "nama": "subtitle English",
             "id": "DT_N6jfGD7y52bWKkuFfo8EZb"
           }
-        ]
+        ],
+        "189": "DM_k1uwm62hLcB1r1MAobc"
       },
       "download": {
         "sl": [
@@ -4348,7 +4361,7 @@
     },
     {
       "judul": "martial master",
-      "updatedAt": "2026-11-09T08:38",
+      "updatedAt": "2026-11-10T14:36",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4445,6 +4458,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_PsoXvYBjwmxoZ6gM7iW57Y"
+          }
+        ],
+        "708": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_TfHDk4UUYXB8N27BwG1MAF"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_6geTAf5Fj4HwPAEDyhQWCH"
           }
         ]
       },
@@ -4890,7 +4913,7 @@
     },
     {
       "judul": "100.000 Years of Refening qi",
-      "updatedAt": "2026-11-07T13:19",
+      "updatedAt": "2026-11-10T14:40",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4982,7 +5005,8 @@
             "nama": "SUB ENG",
             "id": "DT_TrDT2azGhhLD1VGwDmVpy3"
           }
-        ]
+        ],
+        "393": "DT_Nw14pJdQ2QDbserhLbvjRe"
       },
       "download": {
         "sl": [
@@ -12525,7 +12549,7 @@
       "judul": " Mahou Shoujo Ikusei Keikaku: Restart",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-03T08:02",
+      "updatedAt": "2026-11-10T18:32",
       "kategori": "anime",
       "genre": [
         "action",
@@ -12560,7 +12584,8 @@
             "nama": "Subtitle Indonesia",
             "id": "VK_y48flea70inu"
           }
-        ]
+        ],
+        "6": "OD_@ChineseDuniaQi:5/Episode_6_720p:0"
       },
       "download": {
         "sl": [
