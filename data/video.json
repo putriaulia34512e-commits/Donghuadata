@@ -986,7 +986,7 @@
       "judul": " The Guardian of Daxia",
       "unlockEpisode": 1,
       "coinPrice": 120,
-      "updatedAt": "2026-11-05T10:45",
+      "updatedAt": "2026-11-11T10:56",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -1025,7 +1025,8 @@
             "id": "DT_WsE2tUcHw4qRofwVqgj63y"
           }
         ],
-        "14": "DT_MfvCwkz6xtjy3yMSCjgmVz"
+        "14": "DT_MfvCwkz6xtjy3yMSCjgmVz",
+        "15": "DT_TjZ7kmLCepy56vaJL4pmCQ"
       },
       "download": {
         "sl": [
@@ -2059,7 +2060,7 @@
     },
     {
       "judul": "My Senior Brother Is Too Steady",
-      "updatedAt": "2026-11-04T20:22",
+      "updatedAt": "2026-11-11T10:59",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2109,7 +2110,8 @@
             "nama": "sub Indonesia Ruby",
             "id": "RV_tzhnwipagvdm"
           }
-        ]
+        ],
+        "167": "DM_k1ZVCkFaF8lVTdMBMIK"
       },
       "download": {
         "sl": [
@@ -3893,7 +3895,7 @@
     },
     {
       "judul": "Urban Ancient Immortal Doctor",
-      "updatedAt": "2026-11-08T17:16",
+      "updatedAt": "2026-11-11T11:02",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3982,7 +3984,8 @@
             "id": "DT_Jf4jBdFPTF9YNXYbZHt7XB"
           }
         ],
-        "227": "RM_v7fv2o2"
+        "227": "RM_v7fv2o2",
+        "228": "DM_k3nl6IUomIAZ0yMBN7U"
       },
       "download": {
         "sl": [
@@ -8014,7 +8017,7 @@
     },
     {
       "judul": "Raised By Demons: Panda Li",
-      "updatedAt": "2026-11-04T08:32",
+      "updatedAt": "2026-11-11T10:58",
       "rating": "9.5",
       "kategori": "anime",
       "genre": [
@@ -8060,6 +8063,16 @@
           {
             "nama": "Subtitle English 1080p",
             "id": "DT_A5xMiR1Anf99WTqL2jQ7Z9"
+          }
+        ],
+        "18": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_LZrUtz8Cjdda4rJz1Uq9Du"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_KroxJrgrzM2Gf6t4egR21w"
           }
         ]
       },
