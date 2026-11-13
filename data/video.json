@@ -1054,7 +1054,7 @@
     },
     {
       "judul": "Daqian Town ",
-      "updatedAt": "2026-11-12T07:25",
+      "updatedAt": "2026-11-13T12:24",
       "rating": "6.3",
       "kategori": "donghua populer",
       "genre": [
@@ -1107,7 +1107,8 @@
           }
         ],
         "31": "DT_4KP9RxqPsZrUXH1ChNTebz",
-        "32": "RV_abttor02ophi"
+        "32": "RV_abttor02ophi",
+        "33": "RV_nckhunql2uxo"
       },
       "download": {
         "sl": [
@@ -2854,7 +2855,7 @@
     },
     {
       "judul": "The Supreme Dantian",
-      "updatedAt": "2026-11-07T11:29",
+      "updatedAt": "2026-11-13T12:25",
       "kategori": "donghua populer",
       "genre": [
         "Action",
@@ -2916,7 +2917,8 @@
             "nama": "SUB ENG",
             "id": "DT_725ouNj8AAqRhc6TAzceYb"
           }
-        ]
+        ],
+        "38": "RV_uby08snw1wfq"
       },
       "download": {
         "sl": [
@@ -4668,7 +4670,7 @@
     },
     {
       "judul": "The great rules 3D",
-      "updatedAt": "2026-11-06T08:31",
+      "updatedAt": "2026-11-13T12:21",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4717,7 +4719,8 @@
             "nama": "SUB INDO 1080P",
             "id": "DT_U3KPdiZXugyhxqfH7hnonU"
           }
-        ]
+        ],
+        "47": "DT_TMf6wd5KnkgdxtjeafzfgF"
       },
       "download": {
         "sl": [
@@ -4776,7 +4779,7 @@
     },
     {
       "judul": "supreme GODS EMPEROR",
-      "updatedAt": "2026-11-10T09:22",
+      "updatedAt": "2026-11-13T12:18",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4869,6 +4872,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_Vhgk9w8dXFFG6cDodBzXLp"
+          }
+        ],
+        "657": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_Ddi2zNytW7bP585g3EYYUN"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_Wpqrpr9fnXj9pkVPXghSE9"
           }
         ]
       },
@@ -5267,7 +5280,7 @@
     },
     {
       "judul": "Lingwu continent",
-      "updatedAt": "2026-01-10T09:26",
+      "updatedAt": "2026-11-13T12:22",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -5341,7 +5354,8 @@
           }
         ],
         "230": "DT_6dvgNYmhoJ8XCotSSFtHR3",
-        "231": "DM_k5a3VhfGQMIqd0MxEIK"
+        "231": "DM_k5a3VhfGQMIqd0MxEIK",
+        "232": "RV_xcl0yhk0lxe9"
       },
       "download": {
         "sl": [
@@ -5951,7 +5965,7 @@
     },
     {
       "judul": "Azure legacy (The Demon Hunter)",
-      "updatedAt": "2026-11-06T12:27",
+      "updatedAt": "2026-11-13T12:19",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -6005,6 +6019,16 @@
           {
             "nama": "SUB ENGLISH 1080P",
             "id": "DT_5N7xFaWaUGZDi8ahyFQBpw"
+          }
+        ],
+        "103": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_5tENRz2gKKvAsoTMMd2Y3A"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_2UiTH1Qdizmd7yVT24zjWo"
           }
         ]
       },
