@@ -1140,7 +1140,7 @@
     },
     {
       "judul": "A Good Day to Ascend",
-      "updatedAt": "2026-10-31T09:58",
+      "updatedAt": "2026-11-14T08:47",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -1173,7 +1173,17 @@
         "15": "DT_GMpZ4iCVHeu4fJ43DqDEQs",
         "16": "DT_GzQgVqBaJw1ZwGaxnAcHuv",
         "17": "DT_9vqp3QQ8GwXBK5z9bS81La",
-        "18": "DT_AUiJ2dnrXshbNUGdhgr7N7"
+        "18": "DT_AUiJ2dnrXshbNUGdhgr7N7",
+        "19": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_BmSjypYNuyUfHhHtkTXNUM"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_9GMEWKfLYLspwsJskA92CJ"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -4145,7 +4155,7 @@
     },
     {
       "judul": "againt the sky supreme",
-      "updatedAt": "2026-11-10T09:22",
+      "updatedAt": "2026-11-14T08:52",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4240,6 +4250,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_Uevm6xh3d94Xdu2129nvKb"
+          }
+        ],
+        "566": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_EGNcCqcz1Xn8anhRtHYYed"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_J7LAPhASYAbYZCpynCE7Y7"
           }
         ]
       },
@@ -4541,7 +4561,7 @@
     },
     {
       "judul": "Soul Land 2 The Unrivaled Tang Sect",
-      "updatedAt": "2026-11-06T22:52",
+      "updatedAt": "2026-11-14T08:53",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4589,7 +4609,17 @@
         "175": "DT_FbEykqEjN5kMnsbLix3Ve1",
         "176": "DT_EMui34PZV5XeXmoLiQ52xR",
         "177": "RM_v7ffehk",
-        "178": "DT_BgSNx7E6QwF222HgdQ5Lhu"
+        "178": "DT_BgSNx7E6QwF222HgdQ5Lhu",
+        "179": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_KE8GT37CDSb9jHA8TgmWEH"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_3CnZrsADWKmMk57UzwnNKb"
+          }
+        ]
       },
       "download": {
         "sl": [
