@@ -3751,7 +3751,7 @@
     },
     {
       "judul": "Beyond Time's gaze",
-      "updatedAt": "2026-11-07T11:25",
+      "updatedAt": "2026-11-14T11:04",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3805,7 +3805,8 @@
             "nama": "SUB ENG",
             "id": "DT_FyRzPSPJBXokJac1dY4Haz"
           }
-        ]
+        ],
+        "48": "DM_xbwg21y"
       },
       "download": {
         "sl": [
@@ -4971,7 +4972,7 @@
     },
     {
       "judul": "100.000 Years of Refening qi",
-      "updatedAt": "2026-11-10T14:40",
+      "updatedAt": "2026-11-14T11:02",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -5064,7 +5065,17 @@
             "id": "DT_TrDT2azGhhLD1VGwDmVpy3"
           }
         ],
-        "393": "DT_Nw14pJdQ2QDbserhLbvjRe"
+        "393": "DT_Nw14pJdQ2QDbserhLbvjRe",
+        "394": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_GqJR4vtjJeY3XjsUobpbWV"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_MGhBeGteP37vfDuXThS5Vm"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -8220,7 +8231,7 @@
       "judul": " Spare Me, Great Lord! Season 3",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-07T11:31",
+      "updatedAt": "2026-11-14T11:03",
       "kategori": "anime",
       "genre": [
         "action",
@@ -8255,7 +8266,8 @@
             "nama": "SUB ENG",
             "id": "DM_k79F3Lpu6AHeSEMtxL8"
           }
-        ]
+        ],
+        "9": "DM_kCg8oBGCwzdqgAMHyV0"
       },
       "download": {
         "sl": [
