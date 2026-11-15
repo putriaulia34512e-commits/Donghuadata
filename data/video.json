@@ -794,7 +794,7 @@
     },
     {
       "judul": "The God of Wealth Dou Zhanlong",
-      "updatedAt": "2026-11-08T12:31",
+      "updatedAt": "2026-11-15T11:30",
       "rating": "8.4",
       "kategori": "donghua populer",
       "genre": [
@@ -843,6 +843,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_9aYM2nHpfXCfMaZpY1VxRe"
+          }
+        ],
+        "16": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_JkaFJDztKbv8AKGGjtq2MX"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_LJ4MFJ8mCmmuNa1ty1PaW1"
           }
         ]
       },
@@ -4326,7 +4336,7 @@
     },
     {
       "judul": "TALES OF HARDING GODS",
-      "updatedAt": "2026-11-08T12:29",
+      "updatedAt": "2026-11-15T11:28",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4379,7 +4389,17 @@
             "id": "DT_NS47oyK1ymF8MLAhLsBqdN"
           }
         ],
-        "108": "DM_k4Q2FE4Qblh4n3MvFpU"
+        "108": "DM_k4Q2FE4Qblh4n3MvFpU",
+        "109": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_YCGhJL282y8WGi3urTqejZ"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_86m9MKUuYZurP5DJhNR5dM"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -4411,7 +4431,7 @@
     },
     {
       "judul": "martial master",
-      "updatedAt": "2026-11-10T14:36",
+      "updatedAt": "2026-11-15T11:29",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4518,6 +4538,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_6geTAf5Fj4HwPAEDyhQWCH"
+          }
+        ],
+        "709": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_6LpTzza5t8BxAiUyguVeXq"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_Ai3t694Yz6NmA8K727zJeG"
           }
         ]
       },
@@ -9139,7 +9169,7 @@
     },
     {
       "judul": " Magical★Explorer",
-      "updatedAt": "2026-11-08T12:29",
+      "updatedAt": "2026-11-15T11:35",
       "kategori": "anime",
       "genre": [
         "ecchi",
@@ -9171,7 +9201,8 @@
             "nama": "SUB ENG",
             "id": "OD_@ChineseDuniaQi:5/Magical★Explorer-Eng-sub-07-1080p:f"
           }
-        ]
+        ],
+        "8": "BG_AD6v5dxeoXUWulOp5FNZdkaNgDnpA_mDwaR761S3x9YXmC9UdOZTdi5vtgjdrSr4_0iTZ9OolN9fmVHlnrW_kb5ja35R9qypQRn2LyR9ZmRq7EP-yYA7Ot-bHdUL5pNfWGKpjj6LbIcY"
       },
       "download": {
         "sl": [
@@ -11416,7 +11447,7 @@
       "judul": " Zombie Sagashitemasu",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-01T07:54",
+      "updatedAt": "2026-11-15T11:34",
       "kategori": "anime",
       "genre": [
         "adventure",
@@ -11442,7 +11473,8 @@
             "nama": "Sub indo",
             "id": "BG_AD6v5dzfmLUR9EGv333AAkWkRbFY17MGrnK-GLdzBOxDWav_M26L59_ELSBPI9mqNJAq3-Ogzw-RIpoK7TnkoahKbmWyf0mj9a0vuXR748PYVlaeZKjxRkCUkZQSVtAUELkNHuUgsMw"
           }
-        ]
+        ],
+        "6": "BG_AD6v5dx4ThgF5iCR792s0Fs3ZYDwWi2YpYVakQKM8GBQLxHu8aRWKEwQQ0VyTBtUw0WhOczc9Flpx3BVYOFRjaKIkmStWy0Y2bPqLAjsJj_H1aOdxa6D_xQXcRhC5XrIyiEup_Oot3hf"
       },
       "download": {
         "sl": [
