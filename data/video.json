@@ -728,7 +728,7 @@
     },
     {
       "judul": "one Slash the sky ",
-      "updatedAt": "2026-11-09T23:59",
+      "updatedAt": "2026-11-16T11:33",
       "rating": "7.8",
       "kategori": "donghua populer",
       "genre": [
@@ -765,7 +765,9 @@
             "nama": "Sub Indonesia 1080P",
             "id": "DM_k4mpucZ7huD7uBMhRSy"
           }
-        ]
+        ],
+        "17": "DT_DGtww5Mwap3tykzLw5NCb2",
+        "18": "DM_k5NV87fdecEF9mMLtBs"
       },
       "download": {
         "sl": [
@@ -782,15 +784,7 @@
           "#",
           "#"
         ]
-      },
-      "video": [
-        "[SUB",
-        "INDO]",
-        "DT_DGtww5Mwap3tykzLw5NCb2",
-        "+",
-        "ENG]",
-        "DT_CrKz3kmHk7qYwiPXUjJwRn"
-      ]
+      }
     },
     {
       "judul": "The God of Wealth Dou Zhanlong",
@@ -2028,7 +2022,7 @@
     },
     {
       "judul": "under the gate",
-      "updatedAt": "2026-11-09T08:39",
+      "updatedAt": "2026-11-16T11:28",
       "kategori": "anime",
       "genre": [
         "action",
@@ -2076,7 +2070,27 @@
             "id": "DT_8rrTBtWTaBhKwmNYmZoYHH"
           }
         ],
-        "23": "DM_k7IchEgQpisrEKMxrOS"
+        "23": "DM_k7IchEgQpisrEKMxrOS",
+        "24": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_7uuFaukWkZi2nauY8BD7GZ"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_FqhgwMFHeyVcHcM7MfGQkW"
+          }
+        ],
+        "25": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_6FMwe57cxQyR9Szh7pLBXB"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_V3eEjQq8sQ5hn5aMYWvcbX"
+          }
+        ]
       },
       "download": {
         "sl": [
