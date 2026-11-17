@@ -2654,7 +2654,7 @@
     },
     {
       "judul": "Shrouding the heavens",
-      "updatedAt": "2026-11-10T18:33",
+      "updatedAt": "2026-11-17T19:29",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2711,7 +2711,17 @@
             "id": "DT_N6jfGD7y52bWKkuFfo8EZb"
           }
         ],
-        "189": "DM_k1uwm62hLcB1r1MAobc"
+        "189": "DM_k1uwm62hLcB1r1MAobc",
+        "190": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_PJ2zWUttKQGEH5qFbZMqN3"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_Wgapxu63bphAmanFQuyukS"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -3198,7 +3208,7 @@
     },
     {
       "judul": "Yi Nian Yong Heng season 4",
-      "updatedAt": "2026-11-10T18:45",
+      "updatedAt": "2026-11-17T19:29",
       "rating": "8.5",
       "kategori": "donghua populer",
       "genre": [
@@ -3248,7 +3258,17 @@
             "id": "DT_S5z4veV69b23x7wgu2wdoV"
           }
         ],
-        "19": "DM_k10jRoQrydALrlMAwN4"
+        "19": "DM_k10jRoQrydALrlMAwN4",
+        "20": [
+          {
+            "nama": "SERVER 1",
+            "id": "DM_k1jm3PnVXZiapwMOsO6"
+          },
+          {
+            "nama": "SERVER 2",
+            "id": "RV_jeacrkh7oskh"
+          }
+        ]
       },
       "download": {
         "sl": [
