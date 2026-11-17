@@ -4103,7 +4103,7 @@
     },
     {
       "judul": "swallowed star",
-      "updatedAt": "2026-11-10T09:27",
+      "updatedAt": "2026-11-17T12:12",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4161,7 +4161,8 @@
             "id": "DM_k3BNn8QbqVz69aMinVQ"
           }
         ],
-        "249": "DT_UEpRXU1uq8z2B1UCkScUVs"
+        "249": "DT_UEpRXU1uq8z2B1UCkScUVs",
+        "250": "DT_4zrpixudh6FVsPp7QzR6V7"
       },
       "download": {
         "sl": [
@@ -4194,7 +4195,7 @@
     },
     {
       "judul": "againt the sky supreme",
-      "updatedAt": "2026-11-14T08:52",
+      "updatedAt": "2026-11-17T12:11",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4300,7 +4301,8 @@
             "nama": "SUB ENG",
             "id": "DT_J7LAPhASYAbYZCpynCE7Y7"
           }
-        ]
+        ],
+        "567": "DT_UQPnhPqpPGJubPhq629JGf"
       },
       "download": {
         "sl": [
@@ -4447,7 +4449,7 @@
     },
     {
       "judul": "martial master",
-      "updatedAt": "2026-11-15T11:29",
+      "updatedAt": "2026-11-17T12:16",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4564,6 +4566,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_Ai3t694Yz6NmA8K727zJeG"
+          }
+        ],
+        "710": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_6VNfb3paW5k6kr5n5r4UQW"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_W57HBJW1GdndmKBnmURZps"
           }
         ]
       },
@@ -4872,7 +4884,7 @@
     },
     {
       "judul": "supreme GODS EMPEROR",
-      "updatedAt": "2026-11-13T12:18",
+      "updatedAt": "2026-11-17T12:11",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4976,7 +4988,8 @@
             "nama": "SUB ENG",
             "id": "DT_Wpqrpr9fnXj9pkVPXghSE9"
           }
-        ]
+        ],
+        "658": "DT_Cc6n96PBFasSoiY25awKqi"
       },
       "download": {
         "sl": [
@@ -5030,7 +5043,7 @@
     },
     {
       "judul": "100.000 Years of Refening qi",
-      "updatedAt": "2026-11-14T11:02",
+      "updatedAt": "2026-11-17T12:16",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -5132,6 +5145,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_MGhBeGteP37vfDuXThS5Vm"
+          }
+        ],
+        "395": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_6ucvMrBP1JW8cJP621VhuF"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_E73A4xR52HPNcVAyu2Zxry"
           }
         ]
       },
@@ -12722,7 +12745,7 @@
       "judul": " Mahou Shoujo Ikusei Keikaku: Restart",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-10T18:32",
+      "updatedAt": "2026-11-17T12:16",
       "kategori": "anime",
       "genre": [
         "action",
@@ -12758,7 +12781,8 @@
             "id": "VK_y48flea70inu"
           }
         ],
-        "6": "OD_@ChineseDuniaQi:5/Episode_6_720p:0"
+        "6": "OD_@ChineseDuniaQi:5/Episode_6_720p:0",
+        "7": "BG_AD6v5dx2hJz398ZJkCm_ppoPfw1UQTlyYNmooPv1CT8u-5fiXJovAt71fi0pfYDT3TYNXjWCYXfiHFG0U4S0DnF7BB3WBE6UTc8Afc8LvZTlX875yy6RFhkmG-vM3XQx0-fxtK1Pc84"
       },
       "download": {
         "sl": [
