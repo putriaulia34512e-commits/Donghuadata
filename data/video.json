@@ -2264,7 +2264,7 @@
     },
     {
       "judul": "Lord of the Ancient gods Grave",
-      "updatedAt": "2026-11-14T18:39",
+      "updatedAt": "2026-11-18T14:11",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2366,7 +2366,17 @@
             "id": "DT_Dose4Tome7efnpS2TFqRJa"
           }
         ],
-        "500": "DM_k7zteZjv6v2i5wMHDrg"
+        "500": "DM_k7zteZjv6v2i5wMHDrg",
+        "501": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_CJJUND1Wp1Fi4PQ83XfaBU"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_Syn8KvKW7umu8erLQm7Gas"
+          }
+        ]
       },
       "download": {
         "sl": [
