@@ -1007,7 +1007,7 @@
       "judul": " The Guardian of Daxia",
       "unlockEpisode": 1,
       "coinPrice": 120,
-      "updatedAt": "2026-11-18T14:11",
+      "updatedAt": "2026-11-19T10:07",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -1049,7 +1049,8 @@
         "14": "DT_MfvCwkz6xtjy3yMSCjgmVz",
         "15": "DT_TjZ7kmLCepy56vaJL4pmCQ",
         "16": "RV_9uat833ohqh2",
-        "17": "RV_j28769sdh4yj"
+        "17": "RV_j28769sdh4yj",
+        "18": "RV_ysixe569t68i"
       },
       "download": {
         "sl": [
@@ -1331,7 +1332,7 @@
     },
     {
       "judul": "Oriental Martial Academy",
-      "updatedAt": "2026-11-12T12:49",
+      "updatedAt": "2026-11-19T10:08",
       "kategori": "donghua populer",
       "genre": [
         "Action",
@@ -1374,7 +1375,8 @@
             "id": "DT_UsUpAARB3ff71U45iKvA8S"
           }
         ],
-        "18": "DT_AM9W7jGKgKRb9vQRz2VJuA"
+        "18": "DT_AM9W7jGKgKRb9vQRz2VJuA",
+        "19": "RV_rkbb1uft4ukf"
       },
       "download": {
         "sl": [
@@ -3468,7 +3470,7 @@
     },
     {
       "judul": "Against The Gods",
-      "updatedAt": "2026-11-12T12:49",
+      "updatedAt": "2026-11-19T10:04",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -3511,7 +3513,17 @@
         "60": "DT_9KJsnBvG8LMaBn2wtx3pHr",
         "61": "DT_PAEFeLFKhJ7iRsDCypAp5j",
         "62": "DT_NzrPcQjATJpUK2ykFwyWLd",
-        "63": "DT_AJCz2ETbB1HuTA2ZR3m4wG"
+        "63": "DT_AJCz2ETbB1HuTA2ZR3m4wG",
+        "64": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_VdSvJ2m6UeNsgdaJwGPSC5"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_ATUzCgcoqt9V6rDhH5Vsfq"
+          }
+        ]
       },
       "download": {
         "sl": [
