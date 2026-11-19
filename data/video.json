@@ -259,7 +259,7 @@
     },
     {
       "judul": "Spirit Realm Walker",
-      "updatedAt": "2026-11-12T07:31",
+      "updatedAt": "2026-11-19T07:09",
       "rating": "9.5",
       "kategori": "donghua populer",
       "genre": [
@@ -292,7 +292,8 @@
             "id": "DT_6wT8xdQ9382kXQLMzrqQAy"
           }
         ],
-        "12": "DT_5h9JWWeRBznuTmqCUPEVnB"
+        "12": "DT_5h9JWWeRBznuTmqCUPEVnB",
+        "13": "DM_xbxpp62"
       },
       "download": {
         "sl": [
@@ -11711,7 +11712,7 @@
       "judul": " Sasaki to Pii-chan Season 2",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-12T07:26",
+      "updatedAt": "2026-11-19T07:06",
       "kategori": "anime",
       "genre": [
         "comedy",
@@ -11742,7 +11743,8 @@
             "id": "BG_AD6v5dy7AzufXR7StIkZr-i9nmki79qqPfFqUMcW2A8MTfs-EZPdaLdURsX33A8B-TJ8Eoo2Urjhsia41_Y7gf8t6PFh3lgJvZvk2wR-NLKUJAKbiYHdZTnIJQusKTqwUcC9uqfRhA"
           }
         ],
-        "6": "BG_AD6v5dwQJteQPajmdrTvgit0UYN36kitGwkiYCAalYCpuI4BBs51-Hez3Z3ans0e6Lw6vn9uIZUyzTs8Mq3LSDUsiM26JXqWc0n64zfqlIG4xhzDGpE5ZQAOp5pRvPIwCzcNef9on0tD"
+        "6": "BG_AD6v5dwQJteQPajmdrTvgit0UYN36kitGwkiYCAalYCpuI4BBs51-Hez3Z3ans0e6Lw6vn9uIZUyzTs8Mq3LSDUsiM26JXqWc0n64zfqlIG4xhzDGpE5ZQAOp5pRvPIwCzcNef9on0tD",
+        "7": "BG_AD6v5dx-O6eRBe1DhXrwOed-lhCDREmE2dxzbzxCIQ2zSfOFDCLY9k3HzmReivA77Fnt6ch8Ji7nkzJ96c7F6_diHixGSPSs-HdObPrUYYwXzslEt0InQ83pLolVwuJNvDL7YAdWWBU"
       },
       "download": {
         "sl": [
