@@ -6146,7 +6146,7 @@
     },
     {
       "judul": "Azure legacy (The Demon Hunter)",
-      "updatedAt": "2026-11-13T12:19",
+      "updatedAt": "2026-11-20T11:06",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -6210,6 +6210,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_2UiTH1Qdizmd7yVT24zjWo"
+          }
+        ],
+        "104": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_428DfNtFgi8su2FcdJynUN"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_Y8ba5AMiZxQG7mfTGECTXy"
           }
         ]
       },
