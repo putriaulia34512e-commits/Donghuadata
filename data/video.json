@@ -123,7 +123,7 @@
       ],
       "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXVEjDJd_apf6cVkwT3qpNfp07MQwNiq1S-JcC5xqcZHbtgAcvSYDIRBr040YfpcvfO3pr7pUa-rUuigFQemLsICE9O5BlkBCLBHx-A8fteqNeqJTFg74Z4FhOsV9mxE2SQCBnG6d3GkiFjSJkV1iE0KBeVd2eaXnT63flWrDvsBliyJc5O0s3XfqRiA/s551/BTTH-Movie-Battle-of-Two-Emperors-Subtitle-Indonesia.webp",
       "jadwal": "sabtu",
-      "status": "segera",
+      "status": "movie",
       "studio": "Shanghai Motion Magic",
       "season": "2026",
       "durasi": "1 Jam 30 Min/Eps",
@@ -12821,8 +12821,8 @@
         "Urban Fantasy",
         "Shounen",
         "Gore",
-         "Fantasy",
-         "Action"
+        "Fantasy",
+        "Action"
       ],
       "rating": "7.2",
       "status": "Movie",
