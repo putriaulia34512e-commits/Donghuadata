@@ -9797,6 +9797,144 @@
       }
     },
     {
+      "judul": "Putri Terbuang Telah Kembali",
+      "updatedAt": "2026-11-07T08:12",
+      "kategori": "drama",
+      "genre": [
+        "#"
+      ],
+      "rating": "7.2",
+      "status": "end",
+      "jadwal": "Senin",
+      "poster": "#",
+      "season": "2026",
+      "totalEp": "60",
+      "mulaiDari": 1,
+      "eps": {
+  "1": "BG_AD6v5dy_DnydD99QHs93OOIV-vBah3gjgE-KJmIoOh9aRbx670OTpqzJs_xKnRN5B1vxY5rFaX5fGKzoyhFz_xOcgDondnHm6-2E7tstkAq75eCoMd1Ycw-_kTusGoTHMkTe98fazX8",
+  "2": "BG_AD6v5dx8U5FmSuxNiYYz8bWcaa_qTLsnIt2ZKXqlcHImUdJSMNHXCFuSxJjoAzmrupWMxHtKDQFRwsL7oh2ncEYMcSfsXTKT0-_VUwYi9bUKBusWcEV53l3eMEgAfigBo53P_UmjaQ",
+  "3": "BG_AD6v5dx337koQYUjlrMZXtcF2QfnZu3bDuZD1V66GMakEsmPu5M8dSzNPlfui3SI1Hpyy1fRa1P0tYsc1_1BpOj4-xBzCXP10SCrG-1Hgko1GJ9enWzk-53ySxcHc5jsZktRzcinIhY",
+  "4": "BG_AD6v5dyIBLGFi7AipSIgRoOJvgXd2Hv-UjL5ZFI3Kl1a-3SRVgVGGaWVlro8Yy5fHvF43kdczI7JPkDQBJdPO7Hr_XXQQQ0d7pFOsftpyCNbbowbcsTSCOYFs4T7fAjBksvmo5AGOg",
+  "5": "BG_AD6v5dxJVek8ljLOWlNeCtjviyeIJekXJ-LWpdFfy4g7k7EvGp8sVnYSIBBxPzD-U2yBH2Yj0H07xTWnke3YT-hT7COKzcvcQchS-IrVzBKU4ygaKxP8LXl4P5wiFFtwU0i6GXMGaoA",
+  "6": "BG_AD6v5dxVLQhIl2luFIMRl-fvv2feKv4983XEMyAi2rG8o_qJcBHUjNYebtcwlwYpTR1Yps7a-i78Zgf1VXgEUGM-jzrxFcLJLLpwwO2OgOqejhcsyyFNZFJ-qlxyF-ehukAiru3Skg",
+  "7": "BG_AD6v5dwgAU-s1lxxHEvx9B24kG4K1IJZDh8OHGfbtXfQolaLfPRJ_CKibAfh3rxVpsSPyDQJl9tKmAzrkhJ6ic3nE1aAuGd9vkQaiSNRofyhD6bBdmh5m2LdW-u4Hk0WI6UGe2pleQ",
+  "8": "BG_AD6v5dxe1DiORQ8dS1mQ3DNgQHWUWKaX573XLJoAoeEp7OYwUSWQ3VEYjor0Lk9PJu9Z8J23SyBImfZDQkxt9YX5cmo-BUeJ7k16nkrO1OIwKX2fYt0B61MWxyO9pi1F86EZq6UDLw",
+  "9": "BG_AD6v5dySim2Qnk6daQg0ykdiKGEsuwqwlNeniRnUs9hmnL_9VGz7pCsdW0SGCgMMVITCCNHFJzy5omiTvAlQPjFxvRDpJ5YYcySJq5aHL8_uLcNnDGPuAea-XxKJtZ3BoWX9BlCqQcY",
+  "10": "BG_AD6v5dyg08C04SxkqrZ9T5KnwWyYyqrSBe5WcZfrtct0bza_hlcz3gl6u7rUO7hi4H7lccpPQVouIuO0w8-cezBzk-j2Xu61toCCqM8_P777h8JSBA_YBQK7QpG6nslcl4T43SL_KPg",
+  "11": "BG_AD6v5dz9AB6U5iYOPtDodi7lQZNcdFqnMn3tPACtufGtsH7agQklwvdEly6ihW0sRhiotPz4Mdm205yZxdhq2U3xw6QfiaRmGgbW1BYUUn2xZNiGS2MoRUFB_CQArn-CYdssj5Dm4Xs",
+  "12": "BG_AD6v5dyg7aOnc-VRv_vOoG-I7mbuVbaRck9mvo1LCuOL-yf8z0ap3WiojKX-peqixKgZ2pksx4jLOKVErWRBg_kHfKv4_WIW9QVSL7PMcq8BdDALL_H5-TsKa6ySn9JfAksN6rWb8BA",
+  "13": "BG_AD6v5dxlDp-Y9gp6GMwFHj23T0rDloP9Ohk7eP12pXwDi__CGZIAjKvUQKHpF874H96HOw1wNrniTuSiYBXOStEpvVCwB7oMAbTwOrdD58Wn8w2ibCHTPycYM4pcfi1cu43uauNYSA4",
+  "14": "BG_AD6v5dzC6-BF2fGipFCpAR6IhMh7DAH2jh4xlyC35VPtF5vTZuswk1FZIx4MjUcCtGmlKYmF1sPMkChSdm7i_lvGt-RIRAWyd7UeSw8UmYrhykZEbz4FzFiZo_WkBvlbm5i60J-bag",
+  "15": "BG_AD6v5dwk02z9aplcXf9FuAhTD3LyaWQ3qIvbbRAHVfRJ1pa88gUXvXFjDrRXgUsakPgaSyKNT1Chu9BkXczVETqY1rk6ZottUR5f-YVlMO4_VdjvndN46a91BWtkzkwOu5s-vNew3g",
+  "16": "BG_AD6v5dxqL_ze1gSDd1gu4uZXVrU7Z4HzRdogkjgpuOD8atYMNRqzc7uybAzC5MRM_RwP5bZc0uT4ggDpdJj2WUC7bw8TiE1G7AZmXzyNLlfKs2Bt1rYo38m-MuUVQVelIi-Ev8vP",
+  "17": "BG_AD6v5dxITtizGxCk88BkZXMqV0MuZz6lxRjv0uuHAG_9fsdMrdPh-iPUI_TdRSDeGJUSYVNN57Xm1qobo9b8mRFpWpuiS-rcCmSPLWjeGo2aN7ZTeBwxqhkypONnN-DI1StaRpUjJg",
+  "18": "BG_AD6v5dx8dCzjRwZ4ERjfm5C2NTHtsJphnuIib5pAmcJHf78O6V3M232NxcjOLvUQtg5pbhmWTHV_tJIbknxG-K5WgAM2tQpbmZ8j01y2JHuNylLM-L0JFA5kIrcezUqk9pRxi4IERK8",
+  "19": "BG_AD6v5dzq1SryP1VW4fg-mWfrjC4RpMFaWGC7TJ_Mg2W3fhwX87Jpsp894bEToprZyCn1XeOZX3O-pK85gHsH3hVRF65BipsVWs5TakbaFwRSH2dJcl3cPZRW1DJp6f2hYh8B9wS76A",
+  "20": "BG_AD6v5dzmQHg2cavrzqFVc3A9y6eA_VpPvRDeVLNrHXv-dkdQbS09C_cqoO7I9tfZaoBden_9dB3yVBnl5zh2fvaX0ydwqrS2KkfXCRmlVjJD6flWXRqbfyrSbnTm-MZrCHJnkfpV6No",
+  "21": "BG_AD6v5dzuAKdVjv0ZwN1vFEWLSZtu5vhHUcGSchqTTHU4LR-pAXBU-OyuazyHBwSSZEAn1-E3KVyzFJGQumQBjfox-yFxBuEW-D9itKnbg9c2tViC1B67PF1QJVJkoe0bmsPKL34oFVo",
+  "22": "BG_AD6v5dxJbzgB4G-PKnFb5yIDANMI9NVnVp9yNlspXAYhCjoYCmT-PivwfHfDDNc88h_Eamtvtp3_rgTzWiWiqZsuoBKZaTaEePKAq6TtHnX0gB6NFe2GWOQp-2NxXYfcDS0fsFGz",
+  "23": "BG_AD6v5dz7Bx7z5hH2szXDZeuS-Piz-yPubHQPyetgbC-vLBX1Hf4plPMjWwmTfKYOfhneg4sJbAbaQsHL3e9DMSTfD9r23zzcpqrrKfD_mFIhsxQFDDmxlDtOvcfW5OGLdnNXqjgdIDI",
+  "24": "BG_AD6v5dwhg9MmFDd7XL3tAnxqrX5LXg8_IuQXTnxFkkQpnBhwLJU--uxdjzLYmQ3sckX778Rc_MiiQ5iAGlnI-N27YSAQOWGJEVmnhMVGo0OKsQdg6jQlLtnOdU2qoJnL4fe_Q_Mz",
+  "25": "BG_AD6v5dxVMNB1zkslzUS_j8gotMTRKUmzqyIOgr6Bh3_OQj1uMN_u4T1PwADneRxXJFF9fQvJKeTfvS1W9cGfXhevzNfKsiAtF6QUZ1pGhRUyqqvb9LytwruG4p8Qf15aXVQmd8tIaQ",
+  "26": "BG_AD6v5dyK-NTMVjctNQXKK8juMWDsE14mARoyvgvfPCw6BnRo0qgOrP7l2pCJE-SoHmDy8mMWggrep3qhF_F20Cxtgukcg1RE8pRO_OCbEQn4sN01qwSyInBiAJzSgAVYul2_aFrUAco",
+  "27": "BG_AD6v5dzebpUlSTpyPuobWbmy0YTm-W2K_GIYBvQm6jrEr2NXO1Y4OTT8VzOWyOSj1k-51mEv8UXUSBViHyNv37THZtQw7JRMxyk0hskHy7EljzpplRCteUqPKpl_hZfBILyEReCAQPU",
+  "28": "BG_AD6v5dzTg6a1c-s9AATuI2Hw1TmWm74DPCpiHrsJlrIZEoEYF5OtO6B5NDYSmgIqeusJafpkgpGPpsbVQOMOXU6TW_WmfOrxaRpo0Y1B6U2_AjUWbHW_SLkyXG7LjAMnkp7hvshh3Q",
+  "29": "BG_AD6v5dxjtXSgk8XWZ3ywEdY8ReOyWgjRU-tu3mKUdY_84DaArAZ7rr208bzfjn88XGmSF1G9etS2e9oeHW3sSqkb3faknuC-VBJoXKXlFZcTGp7dV0XZx-6B3q-vItKLMlbBNKIGj74",
+  "30": "BG_AD6v5dw1eKRXR6n5U_W6iQVMDBVu1qRKTWyg0FWF6snWcH30fTt3kfjUUHG4N0xZSLb1MBfLPYyxFv-yNSa0m5X48TPppyNLIRwQHC00XZgBdjv-DX-AP65ZHvIY-Knk2SA6KK4Sfw",
+  "31": "BG_AD6v5dwlUX5SLui5OAjXWish_AD8Pyxk9fbxMMP_4SSNPo8DoBOckUDky2Bszzt45elAg5RY9Gi1h4XtgdY8HgIr9JjGSKjckEDUpM5o2_p1q_NePCPSG2F7d8erwUS0GUjnQ_MNe6E",
+  "32": "BG_AD6v5dxa-0RfUBpi8o1eUAWT4pU2Xsgh04RzNElCTSgbRkyqBBzhKx-Wq7w5pS4y0UC_NaY8BZ_ohI7K6L0-dHZFGnhijbvLGi4h-AcFLjXXyGDN4wDAxL5XDmvkJ_-_04nmyFd-C-s",
+  "33": "BG_AD6v5dw5CS901Xt04omlmEmMTxrtH9vf0HoLNUNTdJjXH2ttf1NCONKKDV9ZN3Evyk2UYbig92ZxP1ArvxEk0LHM7n85ygYmT68Mnzp3tMe2hxjRPqspKrLTjPIO98P4GJ1brSc",
+  "34": "BG_AD6v5dyt2qjg2so775sKpO-xp4__w_RbLaG7NUAV7IFYxbNRSxAEC3dVzF5ZvGMux4x6MSLaEz5CEK8g2phTUrCgI2lbv1OUs0Hc8uunhX2BoAJlneNVPKyqvLQyt-FijGTf_WZbDbo",
+  "35": "BG_AD6v5dwvr5ad4thk5kgsjS9sXI5_bvuo8Rn5lMgWYoskVIKUFHqIOAJG97FMEJe3oqNm-ywGxumEy5jCx-LkZj1hdHviy7IIhYvokOiI5Gye5isH64p9BPDS01EOEzKd0AV-nEj81g",
+  "36": "BG_AD6v5dy5rfvLh4pkhH-EWEp2kjLsJnqpPQfS_oik4zbrmRfGyUAUpA3TdwV6gfc8HDiMU5bWVMGMo3rphwdAZGZmjXQTeKj34zCEuaOn3lJEww6Fan7s3daBI-KSN2SKiWCPsJk8",
+  "37": "BG_AD6v5dxz5uaDzPu9lX0s3eWpIEnPIPqLu-tLQdpLgRtCGemGdzZ4elpoy7n3KZU4eSSFg_sHAjBV52b8PXlqt57rzu_aOl6TMyUgoPwgo1korh_0cRhXBQGfNPRzV2geiiQ0do4LAg",
+  "38": "BG_AD6v5dxDDBfK1ntbkUyz888EeMGLT7iqmKayNQuZJF8RrC_LAdcjMkbo55h9EkY7nGG2zyZ1xHL-_O6h8hIQQf8u17yV2CG5AJHktAPtuIcCSOp-fULjtmQtvzhgyS_-8XC1uHJEOz0",
+  "39": "BG_AD6v5dwFPfiXI0t0KPVDJBqvG6lu9-Hcuv4d89zlEXfuVK1gJJPzuOQ4i9XrbPQLw37wWwN1dyvQ3xcL7FX_2APse-w27DWUuZ09aAe0xWKhaX1kByBwSfar9jIzykZKHu9VL5diy3w",
+  "40": "BG_AD6v5dxR0LYvHYZk8_TBpQcdRrUh7PuoU8oDXIks9JjUhAW68EY8RQbGJmNRU20CKComvfHSyKiE3o5IyvurIuYJWsF0H45JfxX1fVtFe8x69EUe6S9WVDnUjFq5k8ZsrAa95jtIUg",
+  "41": "BG_AD6v5dy8K4AMLB2dfrDF8e_ESYJuOL1JZRl6-7fE6Cbya6e8pG_OEZXM6D0uAweurBF_stXSibb1ro0IAse3AAgdlLaZhQizYC1_QLdTcpvO9sQ13CK8WZceaZp71e4SHkAsVzAg5A",
+  "42": "BG_AD6v5dxgAF9gnBAOuV6T6JNQMoqBg9O0lozsJYHcJ7KX8ceHlG9sPmbv8GeCtfoChDyTaRcRUVZic0il-fraH0wipY-FtmNKrCEpfXGrBPb-i0ecpYZMoh7S5OijJ9D_XNgHSR5NO0Y",
+  "43": "BG_AD6v5dzJCAbBP_5rTsvnGNQPPGunxdCbkgi-VNeMPybGb-2sakvVcG9VmDaCLnLXRz1nXIZ98xNc7pL9mUdowgraM9wRlzQ0FPimyL_D9Hp6ic26C2eWzyhv0JkEXVkxndQT39KkXAc",
+  "44": "BG_AD6v5dyaX1pfvyxQnmVdlqy5yDZNCKxGqXxu60ivVhC_WyZSol0g3xXrMb64rQV-REkq9Q-oKV2bOV41d43oT5sXgt5mgE_DOAKBfdNfyMS9CAXtbh6P_3pbnpjBw5PIRd5UdECX",
+  "45": "BG_AD6v5dx53IXYsplB43z6ZARnemmCXxaQHElENDAXQcc5senrXAwKolghHUynIazcA-hbWrq0cNlmw-wr3o6YVcUf-lW4OmZm19LZBJgoTMhvhZBfqjljy07J_KIt94lgsDX9ryzFwEg",
+  "46": "BG_AD6v5dyxY_h0i3Oq2SWNxh_IrmEG8UBky_VIoavos9KNp5pYIjVx052RFWNBOv5tvR5zoGdf6TdKRCnfTwaEvRHn8tM87SUZbul30JfesS9y5-8DW47YIPEU5op-BcVmKKuLFFzomA",
+  "47": "BG_AD6v5dwElbNqDHDH2I-x9bcrIuGl6nLlkVf9nK2itNokYV79MN1Y8yNc8m8_L8G_PjpyaYkN3GdiRjTk1rlAsre8MykRhleby_KCc71dNNqZPSgJFL7VagGU3OSqWHIvRa2ovhFyaqY",
+  "48": "BG_AD6v5dyCX-pWMeZQUeJMVIbpsZ2Qj_PrUfBHNeKLvZH99XAAomJuwSHkrjZ-FtKMJfdM2OpOw3ANZR9HqHN_qK-Cq3wulZwNFBW5OVcTyWE7BrW4evYDZqFU2sDCDlktJ-AfmxcetA",
+  "49": "BG_AD6v5dzPuLRWtCjwVuRMjcEhceelEw58troYKXkMThEA3YL1N-3NStjTyVTHRMd2kbiRauCYAQfRuDTK0S03Fb1sLdLj7FGwMHXKQEvJ6R69zkySpEwm0ptXCoSq-19ZHsjO4h0kVkc",
+  "50": "BG_AD6v5dwwojFSNzgaa28Lsbbk0_zZIpMdjLi90Qz0TDK7n9HCYd870NBkI3qU8z-CrO96nv_4rlPlBVNA2IEkkHryc3XjrKY1G0cbIc6qNc94JkmnXz8131NtncgeZzAPFhdeyvv2cNQ",
+  "51": "BG_AD6v5dzqxN3rcnkq5V_Ye0xvP2LGTV7WQKPeHs_mDzzOm546JHOUi4ILIZVD_wxm4jx00qTeTCHv2bEDCnJXkGezCD2WbLTDi4gQ6CpyVybFVBaAsl-T6yml6mZHskNaRSzNEKtnhJ4",
+  "52": "BG_AD6v5dw3lOtpJnuhz6108T5GFFAIBA5MQbyeTwLZXqyLAqtrOPikz6FTrr18HdhuWL0Wcs7CeVeVjrHRhfkd6EWhlwK9KlmaehuOaum11i81l1cmE9pCA4kBQjBWkK72kDpBktnC740",
+  "53": "BG_AD6v5dxH7DkS8HWcn9GvfeKWOVomdMHU-V0g3fywjAzQ4nYh7NsoDbosHA_OF7a3P2r7ZX_LrEggD_QIgOI6Xy561qiRZv8Ng3Usc2H7w2dfWuZK7zaqsRDXlc8gymPrs3IpF3y29CQ",
+  "54": "BG_AD6v5dxuc7bvZKjR9YmZbey_vkLChTul_uC3VbVOzbw7VciWe8jBcs2E5Jznltk7wvF39ATPkhctROabN-LVfomfbVKZe8-ici45ccXOMHikSgzH0wr-6EfcksZqPN2LpL9ycvnZv50",
+  "55": "BG_AD6v5dwjY_cifPYP2YjBe-_KMN4o6_w3FkKyiDDTGlKE1BSNi5faXSFqpWUEJUztZv1tdZ-Y3R2dw3QGHlg8JffNTPBXyHFik06kEc3kvsRmE62Xaxix22cx8e4R3k21Bn2zLtkg3sU",
+  "56": "BG_AD6v5dyi2gg2Z6vlvmqMpgR0FhC8zKX7r2k9Zdo4Ol7FW50XgTjMik4Eqi8jZoFMYXiTVx2WeXk8U5PDAWCYlccSQ1lWbrhWRf3Kv6LRNXHMlCNJI7MrEZkhztRlAb6UpJ6FBlSHCQ",
+  "57": "BG_AD6v5dxcUnAic3MYGO6QRe1lmDdcIMLkZ9mrQWT-FFI0jNcwgTMszDm5PN51wm9zbAHDicw790BBGbEzxyoT0mn_w1ALgPt-6P5HYRUh7m2obLwNh1JAiJf2A2e3c4slavk1t32HV70",
+  "58": "BG_AD6v5dyfnNtlWwDn7NI60JS7ItT-lQ8e7AuOGUyrm4xSQqEtaK04UiRnXwr7ObPzMyU7fm3PNeAxjLa3bQBHk7CHy63WvoF4vRlWBPSx8Q2xeyTgaGXbSnOmXnVuUo2K4HGGvjq7JCY",
+  "59": "BG_AD6v5dxpkrLT24Wgejqu27zefpigGdKTeBSNoDiJez7vV9Th-6gQMx3703wqrUG5wLzJjY5FPg_l3HbATpD4aXeiOsvIMryfC7ipmXRmbziEvhNz6Mj3D_hAIOuLXmD7fDesR55nhZ0",
+  "60": "BG_AD6v5dzX5o3F4tzpZoqM10zLiV2s8AY89LpzBhcUwGhAoYI5E5Im1VSUVkwMWwsQ1V2J2KjjHwBSZbft24-TueSHWRgZNWgK9TWPWt5o0QLNh-qh_0Li3Zir0ZPe3pkRWX9-v9UBuw"
+      },
+      "download": {
+        "sl": [
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": " Penguasa Takdir langit Season 1",
+      "updatedAt": "2026-11-21T20:34",
+      "kategori": "Ai",
+      "genre": [
+        "action",
+         "adventure"
+      ],
+      "rating": "7.2",
+      "status": "ongoing",
+      "jadwal": "Senin",
+      "poster": "#",
+      "season": "2026",
+      "durasi": "1 Min/Eps",
+      "totalEp": "12",
+      "mulaiDari": 1,
+      "eps": {
+        "1": "BG_AD6v5dzNqGj6wNG4nE6xNO26nSTsLQgXnqU7uopiQ6-GB04zB2kIREtDBhc0dS_XSEnDNyGRTmeJXahlnNpxhZtJQVaYqebQjtehZ1LWyr8CpN3FYqbL37ehAq-mS-RUl5GwJfxmUpE",
+"2": "BG_AD6v5dzrxcqKywx6NvHjz8jDbKB6MNx_jH5QPy-oXldtj58CBCsP2ewx3JwA1Sru4G6W6UzSzOPsGTRet1tE0noLZfOOivigTanJPeUR0xTn_5BrQNjfqLxvMoVMOKwtzZAMzj6hOQ",
+"3": "BG_AD6v5dzyzq2cyiJEw4kdwwZl7wOA5nfEbOqk1STfp8qyfwgUaCqFBttN4y-41Ha_J92n55gW6pOWa0VQcQm_c5S_wmBnE4TeU0XSkVIOv9YzqfG1rhK-z-01TDkgT1Bj31rCZcomEQ",
+"4": "BG_AD6v5dziIu47SiLJbSxkJXsWVmYcgOUMdhoOyJg8c1VpbgW4u2Jw5zLf6JOfCjwRce5Nz_7MWrpGlrevPTI32mWY0FGwCI_nlJnUKvX7GUuZUpz7zzpEK9UQ7B0xDyLLKOg6K_hQeg",
+"5": "BG_AD6v5dzMCzFfJoh-L5vgnIiNJOh6O_oR6m1BDik4D6t7SWytk30Ub-4BOjsfQLJuACUvAinqEFLha1yXQsBk58XOXlu-bJi0FFc9d2bTfBtT3jeMtuaw0XLyVKKW6hZJd5PBTiQ3NA",
+"6": "BG_AD6v5dxYMW4cmqh3ZrIdfpcNANWmlfE-lkxnO-ZoMybrtwWTsTRjZFpa-jgHibgc9QGJ0w-062YdodADv6FUAoezN43a8rKVAjVIOvSQNiQr3vL2v_HFBXKF0d7gfAWrcaPw8RBcPus",
+"7": "BG_AD6v5dwaDyb3-XQxy4S7QYFc_61J_GOqtxdOWraL875iEHG8E4vmYLbVw6bCc-3ynTjGG4wUpUK5HtTuoPM4Ba8Mf5PFhI1EqszpFQ3GJ45gFRI9rFzJ_4m6ou44PwGcMNjHuraqQQ",
+"8": "BG_AD6v5dzf2rIrpDuA2mYy_f1A0CPBq0ORKeDeweCeq7BjS1mzTK0rb6GsE7xmcqvFL1r-2LtH3jvJDLihTZXL2XFk6DNOEOr1FybAmvXTupJluWcLjQh50LfSUhY_f2nPaJUQb30kKkA",
+"9": "BG_AD6v5dxICEtrxTsGdJXcERGCOE6cAKhjLFo7BT0XsZQlWLiCxTFERlMKAJwn7l_aG5gKN9Jlb9iO0CHp39RhAZbz7Rj6rdBbH6Wl7KkALPrlwGIfyOiMOcsTAfk4dEFmOHWXuvRMag",
+"10": "BG_AD6v5dyxoa7kAdoOuchn2p-LbOpksfvEfJv_sjRMXQGK94sXnsu-URmaoDBAwFsk0qUCjn21NqhCjwpeTs6padKUoMz9jxb5jBwSc3Cx6RDxuiAqmEMeDJ3silvIXnCN-JUbGVMbqg",
+"11": "BG_AD6v5dyORIT9M9fpzcxsErgeq6sQUI6QPcno1nBwJ1__YjSGOGIC-bL_qYveoANqBx8j4PU_w2nd7ws3U0GSVciuAvSvQLbFJhny7hkr2WLIi9KkGxqBagcdSQQYjHjRt25G82hJag",
+"12": "BG_AD6v5dwxWJpf4TPJDltYAKlzsdeR2wI8FcsAPrH0L-OQ-xx3sAN9JI4N2f2M2XhXbJVFCWshyw3JLc6aMIGneMufqiIqqXf31R0Lij5WPD7KBqBT0qxa9VK9ydZ0nlOJsjM9sTJ2DzA"
+      },
+      "download": {
+        "sl": [
+          "#"
+        ]
+      }
+    },
+    {
+  "judul": "Dance Cosplay Shorts",
+  "updatedAt": "2026-11-21T20:00",
+  "kategori": "Shorts",
+  "poster": "#",
+  "mulaiDari": 1,
+  "eps": {
+    "1": "BG_AD6v5dw_-JJzA3d71brRBiwN2WcCs0EmNmae7lK7FD9yuDVO03FAJxPNvq4Pj_fbi0pbETQTWMkAogvlcEkKRifF6OmUV_AjOxo-PyCeptnQZRL94dmutSdMTYG51ZO0h_DXBQAG5zw"
+  }
+},
+{
+  "judul": "Dance Cosplay Shorts 1",
+  "updatedAt": "2026-11-21T20:00",
+  "kategori": "Shorts",
+  "poster": "#",
+  "mulaiDari": 1,
+  "eps": {
+    "1": "BG_AD6v5dxMyzh2skgJLUaVKtEY-pJZw_DQl63v2cDurGoEyMdzL1TaTeEI3xv0VXIeh8J1eiB60L2tM6m8BF-lOAwFfbO76MrqjZHcepQpkQW_O_96GlzVy0KMnI3dbfPn2mTXypn_Zg"
+  }
+},
+    {
       "judul": " Ratu Hilang, Raja Naga Gelisah",
       "vertical": true,
       "updatedAt": "2026-11-05T11:05",
