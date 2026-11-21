@@ -12775,7 +12775,7 @@
     },
     {
       "judul": " Choujun! Choujou-senpai",
-      "updatedAt": "2026-11-20T12:12",
+      "updatedAt": "2026-11-21T11:12",
       "kategori": "anime",
       "genre": [
         "Adult Cast",
@@ -12800,6 +12800,41 @@
         "5": "BG_AD6v5dwRuPeuVBBT8x-2_bJlcz7gkLqFRx_bWQ78OiS926I12Ar4msju5JQZb4tV7TGNGwUbwt4OBNUuKtP0nLpJB-wazekrp1mA0oiQ8tx4zJq0SdpoWkL-vqjxPUAH29E-Y-Vnxfg",
         "6": "BG_AD6v5dwpXQrjNnxJkKWSTAGyTIjINoCEHij9YEluXvYgxlP7WUs1iCiWZXKJL09n63ShrgVwohzOaU6L4fFjEZFeiVE9cruran4CEhQbvBhWqk1N8ISKAVr1UFwTdYGWlOws6H1VZ4n6",
         "7": "BG_AD6v5dwmijtUk0yYo3Ic23F6l2n7vFZcKS-YgfkpHXtgYNIqOvAbrKxMjTCr9Vbuyel4dxXLcuSxHD1jGnaFwCukzHppiKMM2fjnTn1e14z1KrzG_3eCT5gNLDvrdyOFsd8va9fNoZWt"
+      },
+      "download": {
+        "sl": [
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#",
+          "#"
+        ]
+      }
+    },
+    {
+      "judul": " Chainsaw Man Reze-hen Movie",
+      "updatedAt": "2026-11-21T11:12",
+      "kategori": "anime",
+      "genre": [
+        "Urban Fantasy",
+        "Shounen",
+        "Gore",
+         "Fantasy",
+         "Action"
+      ],
+      "rating": "7.2",
+      "status": "Movie",
+      "jadwal": "end",
+      "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUek0OqSCV6C-PbBkHTqJnE1jiaNQx18Cg4cluYmpQXLdi2TaXV5VVYyqbQF3brz8zfYqcxiQD-kUmL4sjYmtpQsETIslq91QPFJcLaee6fnOZDxHUzWs0Cecr_BFV-z3h9t9PxkO8PZCVjqxhTJg2UKolNiB4ryKYaQx4t_w3bhIXVOHNa_bhFcpl0VR3/s648/bx171627-ZN9D7P46yHnw.png",
+      "studio": "MAPPA",
+      "season": "2026",
+      "durasi": "1 jam 41 Min/Eps",
+      "totalEp": "1",
+      "mulaiDari": 1,
+      "eps": {
+        "1": "MG_gckyXQ7K#zkd2HfH0yU2GXVnhWuYWwoNeFjYbXYJ8QpmZxpRmLok"
       },
       "download": {
         "sl": [
