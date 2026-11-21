@@ -13112,6 +13112,35 @@
       "download": {
         "sl": []
       }
+    },
+    {
+      "judul": "Surviving The Apocalypse",
+      "updatedAt": "2026-11-21T19:14",
+      "rating": "7.2",
+      "kategori": "donghua populer",
+      "genre": [
+        "Action",
+        "Reincarnation",
+        "Fantasy"
+      ],
+      "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE12Empd1ZG-BJ0v0B1IMsOFR2_FgtemEit40_lySomnWYWJ1zbPtXF7-x1RgAQo21Mcpxzn13gnxtEizB9j17THDjjQSBPCGkB0ybvjisWrMK6H2JjA9L3HOaKK7qJwlFn2Ix9S7HNaALwBYoHZBSN2BG9jbwyazGr3RO4FvgkuXZ0xlYP0PGG28jhnbQ/s2560/Surviving-The-Apocalypse.webp",
+      "jadwal": "sabtu",
+      "status": "ongoing",
+      "studio": "origin",
+      "season": "2026",
+      "durasi": "18 Min/Eps",
+      "totalEp": "16",
+      "mulaiDari": 1,
+      "eps": {
+        "1": "RM_v7ght6e",
+        "2": "RM_v7ghtae",
+        "3": "RM_v7ghwvy"
+      },
+      "download": {
+        "sl": [
+          "#"
+        ]
+      }
     }
   ],
   "images": [
