@@ -109,7 +109,8 @@
     },
     {
       "judul": "BTTH Movie: Battle of Two Emperors",
-      "updatedAt": "2026-11-05T16:59",
+      "unlockEpisode": 0,
+      "updatedAt": "2026-11-22T13:37",
       "rating": "7.2",
       "kategori": "donghua populer",
       "genre": [
@@ -126,11 +127,11 @@
       "status": "movie",
       "studio": "Shanghai Motion Magic",
       "season": "2026",
-      "durasi": "1 Jam 30 Min/Eps",
+      "durasi": "2 Jam 15 Min/Eps",
       "totalEp": "1",
-      "mulaiDari": 0,
+      "mulaiDari": 1,
       "eps": {
-        "1": "#"
+        "1": "https://ok.ru/videoembed/17435875347165"
       },
       "download": {
         "sl": [
