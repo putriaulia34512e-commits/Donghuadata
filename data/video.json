@@ -1965,7 +1965,7 @@
     },
     {
       "judul": "Renegade imortall",
-      "updatedAt": "2026-11-16T11:27",
+      "updatedAt": "2026-11-22T23:17",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2032,7 +2032,17 @@
             "id": "DT_4aokad5wLQtpvATxJSEMzr"
           }
         ],
-        "167": "DT_6DVx3M7CmYpcWb4WfjEtAv"
+        "167": "DT_6DVx3M7CmYpcWb4WfjEtAv",
+        "168": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_7eqdLHGXeGiTrNzjjpTmRz"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_QK6i2dWT28eapFD9UmwcF2"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -4549,7 +4559,7 @@
     },
     {
       "judul": "martial master",
-      "updatedAt": "2026-11-17T12:16",
+      "updatedAt": "2026-11-22T23:17",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4677,7 +4687,8 @@
             "nama": "SUB ENG",
             "id": "DT_W57HBJW1GdndmKBnmURZps"
           }
-        ]
+        ],
+        "711": "DT_6PRddsrPHmtrFjP9H5vaCb"
       },
       "download": {
         "sl": [
@@ -12849,7 +12860,7 @@
       "judul": " Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-16T07:26",
+      "updatedAt": "2026-11-22T23:17",
       "kategori": "anime",
       "genre": [
         "action",
@@ -12874,7 +12885,8 @@
         "5": "BG_AD6v5dyQEmkL_qDPPODgSywVYsSjjABQfFlzSWEkSqVD9cyysAtLFOvrvvADf3t6SR3-L6b5sB7MRAjHW-KHLSV6rTkvoZM8DR9rDK09x4auxOySkA_UbdQFLoMFZQy9oWqdZDkrGUJs",
         "6": "BG_AD6v5dx2tNcZCd9uPuaQKfAxnV1bFzrfbO5nHJlFDRtQqzHSWLIOYCMIE6ChhfgHJYvl4tdHAReQ4EN61y3_iTx01ladhMqS9Z4298NQklExPb4OcIaBtz-eVTutlW8cWj0pTE__BxpY",
         "7": "BG_AD6v5dysRl10BcwshD1GPpUjqIhnnzPANuWpjMfxHakXKNdyhY6wNu752PyanTuwzEtFSyiK2iVCmFgh5vEc_qSfCtwxXfwS9HlTDlNibzKAKTFHe_D01vk1c68eex7RcNcjbDsFEc8",
-        "8": "BG_AD6v5dy6HONwPQVLRF0syw7Y-q-CjQOkIubxIRcdgUfcwr2J_T875CBZ1UVj4_3HraGTdZ89-kuqfL4MJhPNX2kw61E4G7A4xgdElgsX_dOIPAPyx2-vsSjSd2pWhdCz4_yFvATJhAx0"
+        "8": "BG_AD6v5dy6HONwPQVLRF0syw7Y-q-CjQOkIubxIRcdgUfcwr2J_T875CBZ1UVj4_3HraGTdZ89-kuqfL4MJhPNX2kw61E4G7A4xgdElgsX_dOIPAPyx2-vsSjSd2pWhdCz4_yFvATJhAx0",
+        "9": "BG_AD6v5dykaHLVchIQ9oAbCHXRaMIb7YJv3wXF-srqAKm-jjptrZ0ODSHKMk2iCZENEMtrcJI3i26o6FiWYIKhv2S1lYHlXqSbjEKtwHTxyWinNPpySxkRz-COX4sBmDyCDqeH7B97nJS4"
       },
       "download": {
         "sl": [
@@ -12901,7 +12913,7 @@
       "judul": " Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta ",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-16T07:25",
+      "updatedAt": "2026-11-22T23:16",
       "kategori": "anime",
       "genre": [
         "Romance",
@@ -12926,7 +12938,8 @@
         "4": "BG_AD6v5dxhdB_ttzbVo_-6kbEoiDuBL34fCic6iJfrvlhbRZMTBUDAzGYh313EKECv8e83AoMa939YSWR9DroQXUx0n9rFMI8mQTocDsiQpNdcFagFIaApkZZpsHF2OMiIgbceiriH0iow",
         "5": "BG_AD6v5dyxDK6FZB-maZSW0GLaUr8Y9v6b3ZrSjAwzQgWv0SiFRIWVSDjwT5cyktneY0th0OOkRuEyrutF62--4b-u7NMn-JK_Cs2A48MQGrFd5GZ2xN6QVtF9nVB-8vDr2qmolaSL8PM",
         "6": "BG_AD6v5dyEiYR6HsSjyawIw7ivKfLeBpkR-qj9kpxC1bPK5Den9G1KJ0ok41IIk7C2OWiAbuOiu8Umg3eYU0mWUNOkOMa-o_4jlPm0BAPoOu2nfLgyVrDfcQg_xt81ATK404RSYxOeHeBv",
-        "7": "BG_AD6v5dzWmHoa2GQ-Kv3IJ0c5TDzE-raExmrBuebPPLiO_FZ67szp05dgOFn2AC9FxOxgrjGAW7R90ldw-6ZclgvBsWnzbYypuo6ZjJp50Telw6k0c3zDOilRZEc9Y7lzV6C7BFnstA"
+        "7": "BG_AD6v5dzWmHoa2GQ-Kv3IJ0c5TDzE-raExmrBuebPPLiO_FZ67szp05dgOFn2AC9FxOxgrjGAW7R90ldw-6ZclgvBsWnzbYypuo6ZjJp50Telw6k0c3zDOilRZEc9Y7lzV6C7BFnstA",
+        "8": "BG_AD6v5dwDz0zhD7kwiBsiHgqUpIFLI7-9H887S2W5HVeMAh3uxex6ODukSss5H4SN5aFSObYXDZMNCaHB-WT6ZfuuXfQbNtI3ORfpqCzjeKP-Wzt6t1d7fRM4LG3Hn5-TjOMKMzFeEw8"
       },
       "download": {
         "sl": [
@@ -13066,7 +13079,7 @@
       "judul": " Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-16T07:59",
+      "updatedAt": "2026-11-22T23:17",
       "kategori": "anime",
       "genre": [
         "action",
@@ -13102,7 +13115,8 @@
             "nama": "SUB ENG",
             "id": "MP_https://cc.animeheaven.me/video.mp4?1532dd4f363f193f61ce32a81c193959&5ac7b887792ef7c248666112a09e2eea"
           }
-        ]
+        ],
+        "8": "MG_T1IjCRRB#G7qmDMZz7YxEns2UH0ZNA46gp0ccsDG7Et4d1n0nygc"
       },
       "download": {
         "sl": [
