@@ -131,7 +131,19 @@
       "totalEp": "1",
       "mulaiDari": 1,
       "eps": {
-        "1": "https://ok.ru/videoembed/17435875347165"
+        "1": [
+          {
+            "id": "https://ok.ru/videoembed/17435875347165"
+          },
+          {
+            "nama": "SUB INDO",
+            "id": "DT_NGzoagUyBzqNY9r7UUJ2Ef"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_H5xSK37rvQvFxwJ5wvSrka"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -13286,7 +13298,7 @@
     },
     {
       "judul": "Surviving The Apocalypse",
-      "updatedAt": "2026-11-21T19:14",
+      "updatedAt": "2026-11-22T16:54",
       "rating": "7.2",
       "kategori": "donghua populer",
       "genre": [
@@ -13305,7 +13317,8 @@
       "eps": {
         "1": "RM_v7ght6e",
         "2": "RM_v7ghtae",
-        "3": "RM_v7ghwvy"
+        "3": "RM_v7ghwvy",
+        "4": "DT_AxehvN736n8di7RazfxtcF"
       },
       "download": {
         "sl": [
