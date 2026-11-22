@@ -4421,7 +4421,7 @@
     },
     {
       "judul": "TALES OF HARDING GODS",
-      "updatedAt": "2026-11-15T11:28",
+      "updatedAt": "2026-11-22T11:23",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4483,6 +4483,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_86m9MKUuYZurP5DJhNR5dM"
+          }
+        ],
+        "110": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_W1PfQoM58fGREwm15u2umL"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_648wypz1W9Dw3ThpXp9LZS"
           }
         ]
       },
@@ -8403,7 +8413,7 @@
       "judul": " Spare Me, Great Lord! Season 3",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-21T19:08",
+      "updatedAt": "2026-11-22T11:23",
       "kategori": "anime",
       "genre": [
         "action",
@@ -8440,7 +8450,13 @@
           }
         ],
         "9": "DM_kCg8oBGCwzdqgAMHyV0",
-        "10": "DM_k6upx3TCbSInU1MW6Rw"
+        "10": "DM_k6upx3TCbSInU1MW6Rw",
+        "11": "DM_k4Rg7BsSW2ns92MWKPg",
+        "12": "DM_k5O13VG5L2EV9jMXtie",
+        "13": "DM_k4bjV84TeoTt3vMXtIa",
+        "14": "DM_kkvtZpVAMbihI2MXtU2",
+        "15": "DM_k4fxR9CBQsVCPZMXubI",
+        "16": "DM_k2y8JJS3SYN1rsMXuDE"
       },
       "download": {
         "sl": [
