@@ -1,0 +1,16 @@
+{
+  "judul": "Judul Novel",
+  "updatedAt": "2026-11-22T10:00",
+  "kategori": "Novel",
+  "genre": ["Fantasi", "Aksi"],
+  "rating": "8.5",
+  "status": "ongoing",
+  "poster": "https://...",
+  "totalEp": "40",
+  "mulaiDari": 1,
+  "eps": {
+    "1": "Isi bab 1...\n\nParagraf kedua.",
+    "2": "Isi bab 2...",
+    "3": "#"
+  }
+}
