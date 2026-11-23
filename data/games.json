@@ -2,13 +2,13 @@
   "games": [
     {
       "judul": "Nusantara Rail Tycoon",
-      "kategori": "Simulasi kereta 3d",
+      "kategori": "original game",
       "gambar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSSeRah9ARIe54550a39CMe1etwzWuSJDMb2yS4bigykh8ZSEzWFghVAAwrTgbpgzImlPMi6rXk3aX4tE3tZtZU4vMY3ZuryyIw_fiq7PyFGu1448LQNCilKAQmLWejJ9JG5JxW1cCvgaOR906OawbR2wTTyMHmxrEL3jKSNORp4hKZuGU0RepoSwmHN3u/s1254/file_0000000038a88211899545e8b931a73e.png",
       "url": "https://nusantararailtycoon.blogspot.com"
     },
     {
       "judul": "Grand hotel tycoon idn",
-      "kategori": "hotel",
+      "kategori": "original game",
       "gambar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6YmL_KmpceJkBubP5tsD-f5CAGFJ3rmI86m-Z3tIkAeuWLyjcPsf8l6Db4bmKOUIYnGjO3LwmH1UdHMnjtRswTTbrYjBSh96aNlDByqSoNyLJ94sE3QfGzVaV_hqYoGxr4YTDygpf_geT7Se172VjEey0_8YrInUi6cCwobaGtVcnBiQT7Tifq1r_vEc/s1254/file_000000005f708211a216072e6dc5736d.png",
       "url": "https://grandhoteltycoonidn.blogspot.com"
     },
@@ -30,6 +30,46 @@
       "gambar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTSIh91KfuH3vFyGzEeu6EbKK3Yj7oRckOcFtjdn2_zQBv3vRzp8i3VhmdhiQ2ArTirjoXEVMeGdaQnnPonHOH8FWcFcqRbfruu-TO52_G1ZfpOX9B849dqgJMscK0ZC2P002K-bsMrpLyIf21Xiv4PdRyx2ER6B4I2YrKYIQy-DrDUtoQqD9j-4gdTFA/s719/Screenshot_2026_1013_112840.png",
       "url": "https://countrypresidentycon.blogspot.com"
     },
+     {
+      "judul": "DramaFlowTV",
+      "kategori": "website",
+      "gambar": "#",
+      "url": "https://dramaflowasiatv.blogspot.com"
+},
+ {
+      "judul": "NimeplayID",
+      "kategori": "Website",
+      "unggulan": true,
+      "gambar": "#",
+      "url": "https://nimeplayid3.blogspot.com"
+},
+{
+      "judul": "VanReals3dofficial",
+      "kategori": "Website",
+      "unggulan": true,
+      "gambar": "#",
+      "url": "https://vanreals3dofficial.blogspot.com"
+},
+{
+      "judul": "MyTuberIDN",
+      "kategori": "Website",
+      "unggulan": true,
+      "gambar": "#",
+      "url": "https://mytuberindonesia.blogspot.com"
+},
+{
+      "judul": "Nusantara Mobility Tycoon asean ",
+      "kategori": "Website",
+      "gambar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW9CzFKMGTrM6RsVyXC9zn2mIJD-z661NcaW_fMp48l5SCOBsf2WKpUEYqcvjNKPqQCIFdEen4_OC4ewttMPGnRG9bjzelIZzwZCbHJiLAnVAYvFu64EPGnigJkUqU_XbI27LcibUJnTC7xg7e2NNDqh4ZYR0y8zB-4eNumL214w2gBI8B1QHKmd1TruLP/s719/Screenshot_2026_1009_160155.png",
+      "url": "https://nimeplayid3.blogspot.com"
+},
+{
+      "judul": "zhatian Ai Foto",
+      "kategori": "Website",
+      "unggulan": true,
+      "gambar": "#",
+      "url": "https://zhaithia.blogspot.com"
+},
     {
       "judul": "Rune Village Pixsel Art",
       "kategori": "pixsel art",
