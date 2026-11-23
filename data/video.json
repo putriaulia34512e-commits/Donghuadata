@@ -13405,6 +13405,29 @@
           "#"
         ]
       }
+    },
+    {
+      "judul": "TUNANGANKU TERNYATA RATU KAMPUS YANG CANTIK",
+      "updatedAt": "2026-11-23T08:12",
+      "kategori": "vanrealsapp",
+      "genre": [
+        "#"
+      ],
+      "rating": "7.2",
+      "status": "end",
+      "jadwal": "Senin",
+      "poster": "#",
+      "season": "2026",
+      "totalEp": "1",
+      "mulaiDari": 1,
+      "eps": {
+        "1": "YT_v3CHeQKCBmk"
+      },
+      "download": {
+        "sl": [
+          "#"
+        ]
+      }
     }
   ],
   "images": [
