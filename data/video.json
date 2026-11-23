@@ -743,7 +743,7 @@
     },
     {
       "judul": "one Slash the sky ",
-      "updatedAt": "2026-11-16T11:33",
+      "updatedAt": "2026-11-23T19:06",
       "rating": "7.8",
       "kategori": "donghua populer",
       "genre": [
@@ -782,7 +782,8 @@
           }
         ],
         "17": "DT_DGtww5Mwap3tykzLw5NCb2",
-        "18": "DM_k5NV87fdecEF9mMLtBs"
+        "18": "DM_k5NV87fdecEF9mMLtBs",
+        "19": "DT_L6DGM4GMU54WU4WbRbj65a"
       },
       "download": {
         "sl": [
@@ -2636,7 +2637,7 @@
       "totalEp": "1",
       "mulaiDari": 1,
       "eps": {
-       "1": "YT_CxjjD1jXImQ"
+        "1": "YT_CxjjD1jXImQ"
       },
       "download": {
         "sl": [
@@ -4311,7 +4312,7 @@
     },
     {
       "judul": "swallowed star",
-      "updatedAt": "2026-11-17T12:12",
+      "updatedAt": "2026-11-23T19:06",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4370,7 +4371,17 @@
           }
         ],
         "249": "DT_UEpRXU1uq8z2B1UCkScUVs",
-        "250": "DT_4zrpixudh6FVsPp7QzR6V7"
+        "250": "DT_4zrpixudh6FVsPp7QzR6V7",
+        "251": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_WYW3ok8TWKgxNLpjG3afMX"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_ArGfrbtTZNwZpB2FTy4WfJ"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -5105,7 +5116,7 @@
     },
     {
       "judul": "supreme GODS EMPEROR",
-      "updatedAt": "2026-11-21T07:24",
+      "updatedAt": "2026-11-23T19:06",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -5211,7 +5222,8 @@
           }
         ],
         "658": "DT_Cc6n96PBFasSoiY25awKqi",
-        "659": "DT_DSbNMMpDsvakpUCeNGX562"
+        "659": "DT_DSbNMMpDsvakpUCeNGX562",
+        "660": "DT_UahTtH87GeoPbrQehkiGFT"
       },
       "download": {
         "sl": [
@@ -5638,7 +5650,7 @@
     },
     {
       "judul": "Lingwu continent",
-      "updatedAt": "2026-11-20T11:10",
+      "updatedAt": "2026-11-23T19:06",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -5715,7 +5727,8 @@
         "231": "DM_k5a3VhfGQMIqd0MxEIK",
         "232": "RV_xcl0yhk0lxe9",
         "233": "RV_ck3qt0g515t4",
-        "234": "RV_gkzbumqkz6f7"
+        "234": "RV_gkzbumqkz6f7",
+        "235": "RV_kvn6x9g2h8lr"
       },
       "download": {
         "sl": [
