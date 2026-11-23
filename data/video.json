@@ -12585,26 +12585,51 @@
   }
 },
 {
-  "judul": "Pertemuan Xiao Yan X LinDong",
-  "updatedAt": "2026-11-23T19:38",
-  "kategori": "vanrealsapp",
-  "poster": "#",
-  "mulaiDari": 1,
-  "eps": {
-    "1": "YT_XrKZl0KasAQ"
-  }
-},
+     "judul": "Pertemuan Xiao Yan X LinDong",
+      "updatedAt": "2026-11-23T19:38",
+      "kategori": "vanrealsapp",
+      "genre": [
+        "#"
+      ],
+      "rating": "#",
+      "status": "end",
+      "jadwal": "#",
+      "poster": "#",
+      "season": "2026",
+      "totalEp": "1",
+      "mulaiDari": 1,
+      "eps": {
+  "1": "YT_XrKZl0KasAQ"
+      },
+      "download": {
+        "sl": [
+          "#"
+        ]
+      }
+    },
 {
-  "judul": "BTTH Movie: Battle of Two Emperors",
-  "updatedAt": "2026-11-23T19:38",
-  "status": "unggulan"
-  "kategori": "vanrealsapp",
-  "poster": "#",
-  "mulaiDari": 1,
-  "eps": {
-    "1": "YT_i-pItteQklY"
-  }
-},
+      "judul": "BTTH Movie: Battle of Two Emperors",
+      "updatedAt": "2026-11-23T19:38",
+      "kategori": "vanrealsapp",
+      "genre": [
+        "#"
+      ],
+      "rating": "#",
+      "status": "unggulan",
+      "jadwal": "#",
+      "poster": "#",
+      "season": "2026",
+      "totalEp": "1",
+      "mulaiDari": 1,
+      "eps": {
+     "1": "YT_i-pItteQklY"
+      },
+      "download": {
+        "sl": [
+          "#"
+        ]
+      }
+    },
     {
       "judul": "Arknights Reimei Zensou",
       "updatedAt": "2026-10-30T18:03",
