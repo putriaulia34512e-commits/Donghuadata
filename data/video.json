@@ -2318,7 +2318,7 @@
     },
     {
       "judul": "Lord of the Ancient gods Grave",
-      "updatedAt": "2026-11-21T19:11",
+      "updatedAt": "2026-11-24T11:29",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -2431,7 +2431,8 @@
             "id": "DT_Syn8KvKW7umu8erLQm7Gas"
           }
         ],
-        "502": "RM_v7ghii6"
+        "502": "RM_v7ghii6",
+        "503": "DT_U5Tt3ByA43p47SKmeiBvus"
       },
       "download": {
         "sl": [
@@ -4680,7 +4681,7 @@
     },
     {
       "judul": "martial master",
-      "updatedAt": "2026-11-22T23:17",
+      "updatedAt": "2026-11-24T11:28",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4809,7 +4810,8 @@
             "id": "DT_W57HBJW1GdndmKBnmURZps"
           }
         ],
-        "711": "DT_6PRddsrPHmtrFjP9H5vaCb"
+        "711": "DT_6PRddsrPHmtrFjP9H5vaCb",
+        "712": "DT_6cdi3DChT2Tv1LRajCB3oE"
       },
       "download": {
         "sl": [
@@ -5278,7 +5280,7 @@
     },
     {
       "judul": "100.000 Years of Refening qi",
-      "updatedAt": "2026-11-21T11:17",
+      "updatedAt": "2026-11-24T11:28",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -5400,6 +5402,16 @@
           {
             "nama": "SUB ENG",
             "id": "DT_V9zd6Pm6n3qHvycyGqQkrq"
+          }
+        ],
+        "397": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_EFF9EhJRA74A4XEagpg8Bb"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_64Fmsbodr5qQC8ysafS32B"
           }
         ]
       },
