@@ -13236,7 +13236,7 @@
       "judul": " Mahou Shoujo Ikusei Keikaku: Restart",
       "unlockEpisode": 2,
       "coinPrice": 120,
-      "updatedAt": "2026-11-17T12:16",
+      "updatedAt": "2026-11-24T22:02",
       "kategori": "anime",
       "genre": [
         "action",
@@ -13273,7 +13273,17 @@
           }
         ],
         "6": "OD_@ChineseDuniaQi:5/Episode_6_720p:0",
-        "7": "BG_AD6v5dx2hJz398ZJkCm_ppoPfw1UQTlyYNmooPv1CT8u-5fiXJovAt71fi0pfYDT3TYNXjWCYXfiHFG0U4S0DnF7BB3WBE6UTc8Afc8LvZTlX875yy6RFhkmG-vM3XQx0-fxtK1Pc84"
+        "7": "BG_AD6v5dx2hJz398ZJkCm_ppoPfw1UQTlyYNmooPv1CT8u-5fiXJovAt71fi0pfYDT3TYNXjWCYXfiHFG0U4S0DnF7BB3WBE6UTc8Afc8LvZTlX875yy6RFhkmG-vM3XQx0-fxtK1Pc84",
+        "8": [
+          {
+            "nama": "SUB INDO",
+            "id": "MM_vxuiaf7ns3e"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "MM_nrlzicrwae0"
+          }
+        ]
       },
       "download": {
         "sl": [
