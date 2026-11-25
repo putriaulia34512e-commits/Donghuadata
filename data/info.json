@@ -6,16 +6,14 @@
       "tipe": "penting",
       "judul": "Info Update V5.5.7.0",
       "isi": "Untuk aplikasi masih belum update Ya mungkin bulan depan nyusul Salam hangat VanReals3dofficial",
-      "tanggal": "2026-11-24T09:00",
-      "link": "https://t.me/VanReals3dofficial",
-      "tombol": "Join Telegram"
+      "tanggal": "2026-11-24T09:00"
     },
     {
       "id": "p-002",
       "kategori": "pengumuman",
       "tipe": "info",
       "judul": "Fitur komentar di Untukmu",
-      "isi": "Sekarang kamu bisa komentar di video Untukmu, termasuk Shorts.",
+      "isi": "Sekarang kamu bisa berkomentar di video Untukmu, termasuk Shorts.",
       "tanggal": "2026-11-25T20:00"
     },
     {
@@ -25,6 +23,16 @@
       "judul": "Perbaikan Bug Pip",
       "isi": "Sekarang kamu bisa Menggunakan Fitur Pip gak bisa keluar dri website maupun aplikasi keterbatasan Biaya",
       "tanggal": "2026-11-25T20:00"
+    },
+    {
+      "id": "p-004",
+      "kategori": "pengumuman",
+      "tipe": "info",
+      "judul": "Dukung kami",
+      "isi": "Kamu bisa support kami seikhlasnya Dukungan kalian sangat berharga bagi kami",
+      "tanggal": "2026-11-25T21:00"
+      "link": "https://sociabuzz.com/vanreals3dofficial/tribe",
+      "tombol": "Support kami"
     }
     ]
     }
