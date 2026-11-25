@@ -9,6 +9,22 @@
       "tanggal": "2026-11-24T09:00",
       "link": "https://t.me/VanReals3dofficial",
       "tombol": "Join Telegram"
+    },
+    {
+      "id": "p-002",
+      "kategori": "pengumuman",
+      "tipe": "info",
+      "judul": "Fitur komentar di Untukmu",
+      "isi": "Sekarang kamu bisa komentar di video Untukmu, termasuk Shorts.",
+      "tanggal": "2026-11-25T20:00"
+    },
+    {
+      "id": "p-003",
+      "kategori": "pengumuman",
+      "tipe": "info",
+      "judul": "Perbaikan Bug Pip",
+      "isi": "Sekarang kamu bisa Menggunakan Fitur Pip gak bisa keluar dri website maupun aplikasi keterbatasan Biaya",
+      "tanggal": "2026-11-25T20:00"
     }
     ]
     }
