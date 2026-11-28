@@ -357,7 +357,7 @@
     },
     {
       "judul": "Necromancer I Am the Scourge",
-      "updatedAt": "2026-11-13T12:36",
+      "updatedAt": "2026-11-28T11:30",
       "rating": "8.4",
       "kategori": "donghua populer",
       "genre": [
@@ -408,7 +408,9 @@
         "32": "DM_k5VVmnMue05JrLMrDS2",
         "33": "DM_k6Zei81sqkxpqtMrEL4",
         "34": "DM_k1bcbtDLXn11HTMFEU6",
-        "35": "DM_k2t1zpYUeCSTxuMFF0e"
+        "35": "DM_k2t1zpYUeCSTxuMFF0e",
+        "36": "DM_k2uPSKKjlZ6qsiN99Q2",
+        "37": "DM_k3skt35JGo03OWN9a8a"
       },
       "download": {
         "sl": [
@@ -1182,7 +1184,7 @@
     },
     {
       "judul": "A Good Day to Ascend",
-      "updatedAt": "2026-11-21T11:16",
+      "updatedAt": "2026-11-28T11:27",
       "kategori": "donghua populer",
       "genre": [
         "action",
@@ -1235,7 +1237,8 @@
             "nama": "SUB ENG",
             "id": "DT_F7D3tq1iv8SGWNpyyWUN5B"
           }
-        ]
+        ],
+        "21": "DT_F7HJU4dMgBDSWsAAPwLChF"
       },
       "download": {
         "sl": [
@@ -4013,7 +4016,7 @@
     },
     {
       "judul": "Beyond Time's gaze",
-      "updatedAt": "2026-11-21T11:18",
+      "updatedAt": "2026-11-28T11:27",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4069,7 +4072,8 @@
           }
         ],
         "48": "DM_xbwg21y",
-        "49": "DT_9YXHBRF1uGZMYfR2FRT2y"
+        "49": "DT_9YXHBRF1uGZMYfR2FRT2y",
+        "50": "DT_6UsDeyDYDjivkfFKzwnTd1"
       },
       "download": {
         "sl": [
@@ -4895,7 +4899,7 @@
     },
     {
       "judul": "Soul Land 2 The Unrivaled Tang Sect",
-      "updatedAt": "2026-11-21T07:25",
+      "updatedAt": "2026-11-28T11:26",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -4954,7 +4958,17 @@
             "id": "DT_3CnZrsADWKmMk57UzwnNKb"
           }
         ],
-        "180": "DT_HNGXqDSK9Lk8x6kNg1FPUd"
+        "180": "DT_HNGXqDSK9Lk8x6kNg1FPUd",
+        "181": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_7vDeRhd3hywFPjWbhsCRwa"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_KSQ1qCGUFuB6vc8nCmcayj"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -5150,7 +5164,7 @@
     },
     {
       "judul": "supreme GODS EMPEROR",
-      "updatedAt": "2026-11-23T19:06",
+      "updatedAt": "2026-11-28T11:25",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -5257,7 +5271,17 @@
         ],
         "658": "DT_Cc6n96PBFasSoiY25awKqi",
         "659": "DT_DSbNMMpDsvakpUCeNGX562",
-        "660": "DT_UahTtH87GeoPbrQehkiGFT"
+        "660": "DT_UahTtH87GeoPbrQehkiGFT",
+        "661": [
+          {
+            "nama": "SUB INDO",
+            "id": "DT_76SfJ82WZmL9BnqmgUHAqK"
+          },
+          {
+            "nama": "SUB ENG",
+            "id": "DT_2QHNFEu9Y24pHS9uwskBrH"
+          }
+        ]
       },
       "download": {
         "sl": [
@@ -5311,7 +5335,7 @@
     },
     {
       "judul": "100.000 Years of Refening qi",
-      "updatedAt": "2026-11-24T11:28",
+      "updatedAt": "2026-11-28T11:28",
       "kategori": "donghua populer",
       "genre": [
         "Fantasy",
@@ -5444,7 +5468,8 @@
             "nama": "SUB ENG",
             "id": "DT_64Fmsbodr5qQC8ysafS32B"
           }
-        ]
+        ],
+        "398": "DT_5XYtwo9Y49v3CGf7jC5a4R"
       },
       "download": {
         "sl": [
